@@ -10,13 +10,13 @@ layout: default
 
 <!-- Output author details if some exist. -->
 {% if author %}
-    <span>
-        <!-- Personal Info. -->
+    <!-- Personal Info. -->
+    <p class="view">
         Written by <a href="{{ author.web }}" target="_blank">{{ author.name }}</a>
-    </span>
+    </p>
 {% endif %}
 
-<p class="view">by {{ page.author | default: site.author }}</p>
+<!-- <p class="view">by {{ page.author | default: site.author }}</p> -->
 
 {{content}}
 
