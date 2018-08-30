@@ -11,7 +11,7 @@ City, State Zip Code
 
 Dear Mr./Ms. Last Name:
 
-I am interested in improving the situation of the people in my country, Venezuela. I am currently self employed and in consider myself very fortunate. I believe my skills and experiences i have gained in my carrer make me an ideal candidate to keep working hard for our country.
+I am interested in improving the situation of the people in my country, Venezuela. I am currently self employed and i consider myself very fortunate. I believe my skills and experiences i have gained in my carrer make me an ideal candidate to keep working hard for our country.
 
 What we need is your investment, we, venezueleans, have the talent and human power and will to do the job well done.
 
