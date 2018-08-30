@@ -3,7 +3,8 @@ title: "Cover Letter"
 ---
 Caracas/Venezuela
 ![Fedora](/images/RH-Fedora_logo-nonfree.png)
-![RedHat](/images/rh_shadowman_reverse_color_black.png)
+![RedHat](/images/rh_shadowman_reverse_transparent.png)
+
 
 Any date in 2018
 
