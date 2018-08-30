@@ -1,7 +1,7 @@
 ---
 title: "Cover Letter"
 ---
-# Caracas/Venezuela
+Caracas/Venezuela
 
 Any date in 2018
 
