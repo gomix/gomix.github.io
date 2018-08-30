@@ -1,5 +1,3 @@
-Guillermo Gómez Savino
-
 Caracas/Venezuela
 
 Any date in 2018
