@@ -1,12 +1,17 @@
 Guillermo Gómez Savino
+
 Caracas/Venezuela
 
 Any date in 2018
 
 You
+
 Paid job
+
 Organization
+
 Address
+
 City, State Zip Code
 
 Dear Mr./Ms. Last Name:
