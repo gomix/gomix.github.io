@@ -6,13 +6,13 @@ Caracas/Venezuela
 
 Any date in 2018
 
-For You @ Paid job
+For You @ Your Paid Job
 
-In your Organization
+In Your Organization
 
-Locate @ Address
+Located @ Address
 
-City, State Zip Code
+In City, State Zip Code
 
 Dear Mr./Ms. Last Name:
 
