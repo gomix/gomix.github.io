@@ -2,13 +2,11 @@ Caracas/Venezuela
 
 Any date in 2018
 
-You
+For You @ Paid job
 
-Paid job
+In your Organization
 
-Organization
-
-Address
+Locate @ Address
 
 City, State Zip Code
 
