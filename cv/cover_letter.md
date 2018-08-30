@@ -2,6 +2,7 @@
 title: "Cover Letter"
 ---
 Caracas/Venezuela
+![Fedora](/_assets/images/RH-Fedora_logo-nonfree.png)
 
 Any date in 2018
 
