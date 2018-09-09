@@ -1,8 +1,6 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/gomix/gomix.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Cuando se realicen commits a este repositorio, GitHub Pages ejecutará [Jekyll](https://jekylrb.com/) para reconstruir las páginas de su sitio a partir del contenido en sus archivos Markdown.
 
 ### Markdown
 
