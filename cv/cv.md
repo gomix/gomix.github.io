@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "CV"
-description: Curriculum Vitae
+description: "Curriculum Vitae"
 lang: en
 ref: cv
 ---
