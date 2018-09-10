@@ -24,7 +24,7 @@ What we need is your investment, we, venezueleans, have the talent and human pow
 
 I am confident that my experience as FOSS advocate, as sysadmin, devop and web developer as well as a tech writer, can help our nation general situation. If you would like, I can provide you with current samples of my work. 
 
-I have a decent resume somewhere in this website (working on it). I look forward to meeting with you and discussing my qualifications in more detail.
+I have a decent resume somewhere "here" (working on it). I look forward to meet you and discuss my qualifications in detail for your next big project in Venezuela.
 
 Sincerely,
 
