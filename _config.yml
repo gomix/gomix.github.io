@@ -1,6 +1,11 @@
 theme: jekyll-theme-hacker
 title: 
-  en: Gomix’s homepage
-  es: Gomix website
-description: My personal page, probably will become a blog
-
+  en: Gomix’s homepage (en)
+  es: Gomix website (es)
+email: guillermo.gomez@gmail.com
+description: 
+  en: My personal page, probably will become a blog
+  es: Mi página persona, probablemente se convierta en blog
+index:
+  en:
+  es: indice.html
