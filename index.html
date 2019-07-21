@@ -1,27 +1,38 @@
 ---
 layout: page
+title:
+  en: Main
+  es: Principal
 title: Main
 ref: index
 lang: en
 ---
+  <section class="container-fluid" id="main_content">
 
-<div class="home">
+  <div class="row">
+    <div class="col-lg-8">
+      <h1 id="welcome">Welcome</h1>
+      <p>Thanks for visiting my site, which is actually under reconstruction.</p>
+      <h2 id="about-myself">About Myself</h2>
+      <p>My name is Guillermo, i adopted Gomix as my nickname as merge from Linux name and my own lastname, Gómez (taking off the spanish accent to avoid DNS limitations).</p>
+      <p>Gómez + Linux = Gomix</p>
+      <h3 id="rss-links">RSS Links</h3>
+      <p>If you want to follow me or just read what i write on my social networks, here are the links:</p>
+  
+      <!-- RSS Links (begin)--> 
+      <ul>
+        <li><a href="https://twitter.com/ggomezs">Twitter</a></li>
+        <li><a href="https://www.linkedin.com/in/guillermo-g%C3%B3mez-51112882/">LinkedIn</a></li>
+        <li><a href="https://www.instagram.com/ggomixs/">Instagram</a></li>
+        <li><a href="https://www.facebook.com/guillermo.gomez.savino">Facebook</a></li>
+      </ul>
+      <!-- RSS Links (end)  --> 
 
-  <h1 class="page-heading">Posts</h1>
+    </div>
+    <div class="col-lg-4">
+      <p><img src="/images/jpg/matrix/neo-000.jpg" alt="Neo Ready To Code" /></p>
+    </div>
+  </div>
 
-  <ul class="post-list">
-    {% assign posts=site.posts | where:"lang", page.lang %}
-    {% for post in posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
-</div>
+</section>
