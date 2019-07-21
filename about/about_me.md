@@ -16,4 +16,3 @@ Gómez + Linux = Gomix
 * [Instagram](https://www.instagram.com/ggomixs/)
 * [Facebook](https://www.instagram.com/ggomixs/)
 
-This site was built using [GitHub Pages](https://pages.github.com/).
