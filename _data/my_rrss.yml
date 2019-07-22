@@ -1,0 +1,11 @@
+- name: twitter
+  profile_url: "https://twitter.com/ggomezs"
+
+- name: linkedin 
+  profile_url: "https://www.linkedin.com/in/guillermo-g%C3%B3mez-51112882/"
+
+- name: instagram
+  profile_url: "https://www.instagram.com/ggomixs/"
+
+- name: facebook
+  profile_url: "https://www.facebook.com/guillermo.gomez.savino"

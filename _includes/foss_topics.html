@@ -1,0 +1,9 @@
+<nav class="navbar">
+  <ul class="nav">
+    {% for member in site.data.foss_topics %}
+      <li class="nav-item">
+        <a class="nav-link" href="/{{ member.path }}">{{ member.name }}</a>
+      </li>
+    {% endfor %}
+  </ul> 
+</nav>

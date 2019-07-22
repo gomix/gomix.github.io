@@ -5,7 +5,8 @@ title:
 email: guillermo.gomez@gmail.com
 description: 
   en: Writing down my legacy
-  es: Dejando por escrito mi legado
+  es: Escribiendo mi legado
 index:
   en: index.html
   es: indice.html
+exclude: ['tmp','jekyll-multilingual']

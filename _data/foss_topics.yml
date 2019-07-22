@@ -1,0 +1,14 @@
+- name: AWS
+  path: cloud_providers/aws
+
+- name: CGroups
+  path: kernel/cgroups
+
+- name: OpenShift
+  path: paas/openshift
+
+- name: Apache Kafka
+  path: middleware/kafka
+
+- name: Fedora
+  path: linux/fedora

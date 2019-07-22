@@ -4,6 +4,9 @@
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+   
+    <!-- hacker style.css -->
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
 
     <!-- Bootstrap 4 links begin block-->
     <!-- Latest compiled and minified CSS -->
@@ -15,12 +18,14 @@
     <!-- Latest compiled JavaScript -->
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
     <!-- Bootstrap 4 links end block-->
+   
+    <!-- Custom custom.css -->
+    <link rel="stylesheet" href="{{ '/assets/css/custom.css?v=' | append: site.github.build_revision | relative_url }}">
 
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <link rel="icon" type="image/ico" href="images/ico/favicon.ico" />
 
 
-{% seo %}
+    {% seo %}
   </head>
 
   <body>
