@@ -1,14 +1,14 @@
 - name: AWS
-  path: cloud_providers/aws
+  path: /foss_topics/cloud_providers/aws
 
 - name: CGroups
-  path: kernel/cgroups
+  path: /foss_topics/kernel/cgroups
 
 - name: OpenShift
-  path: paas/openshift
+  path: /foss_topics/paas/openshift
 
 - name: Apache Kafka
-  path: middleware/kafka
+  path: /foss_topics/middleware/kafka
 
 - name: Fedora
-  path: linux/fedora
+  path: /foss_topics/linux/fedora
