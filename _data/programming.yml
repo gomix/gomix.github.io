@@ -1,0 +1,11 @@
+- name: Go
+  path: /programming/go
+
+- name: Ruby
+  path: /programming/ruby
+
+- name: C/C++
+  path: /programming/ccplus
+
+- name: Python
+  path: /programming/python
