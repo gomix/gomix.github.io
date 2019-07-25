@@ -1,40 +1,33 @@
-<footer class="site-footer">
+<!-- Footer -->
+<footer class="page-footer font-small blue pt-4">
 
-  <div class="wrapper">
+<!-- Footer Links -->
+<div class="container-fluid text-center text-md-left">
 
+<!-- Grid row -->
+<div class="row">
 
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-2">
-        <ul class="social-media-list">
-          {% if site.github_username %}
-          <li>
-            {% include icon-github.html username=site.github_username %}
-          </li>
-          {% endif %}
-
-          {% if site.twitter_username %}
-          <li>
-            {% include icon-twitter.html username=site.twitter_username %}
-          </li>
-          {% endif %}
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-3">
-        <ul> 
-          <li>
-            <img src="https://hitcounter.pythonanywhere.com/count/tag.svg" alt="HitCounters">
-          </li>
-        </ul>
-      </div>
-    </div>
-
+  <!-- Grid column -->
+  <div class="col-md-6 text-center">
+    <!-- Content -->
+    <img src="https://hitcounter.pythonanywhere.com/count/tag.svg" alt="HitCounters">
   </div>
 
+  <!-- Grid column -->
+  <div class="col-md-6 text-center">
+    <!-- Content -->
+    <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+  </div>
+</div>
+
+<!-- Grid row -->
+</div>
+
+  <!-- Copyright -->
+  <div class="footer-copyright text-center py-3">
+    <p>© 2019 Copyright: Gomix</p>
+  </div>
+  <!-- Copyright -->
+
 </footer>
+<!-- Footer -->

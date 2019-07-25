@@ -4,18 +4,34 @@
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+   
+    <!-- hacker style.css -->
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <link rel="icon" type="image/ico" href="/favicon.ico" />
+
+    <!-- Bootstrap 4 links begin block-->
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <!-- jQuery library -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <!-- Popper JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+    <!-- Latest compiled JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+    <!-- Bootstrap 4 links end block-->
+   
+    <!-- Custom custom.css -->
+    <link rel="stylesheet" href="{{ '/assets/css/custom.css?v=' | append: site.github.build_revision | relative_url }}">
+
+    <link rel="icon" type="image/ico" href="images/ico/favicon.ico" />
+
 
     {% seo %}
   </head>
 
   <body>
-
-    <header>
-      <div class="container">
+    <header class="container-fluid">
         <h1>{{ site.title[page.lang] | default: site.github.repository_name }}</h1>
-        <h2>{{ site.description[page.lan] | default: site.github.project_tagline }}</h2>
+        <h2>{{ site.description[page.lang] | default: site.github.project_tagline }}</h2>
 
         <section id="downloads">
           {% if site.show_downloads %}
@@ -24,12 +40,12 @@
           {% endif %}
           <!--<a href="{{ site.github.repository_url }}" class="btn btn-github"><span class="icon"></span>View on GitHub</a> -->
         </section>
-      </div>
+        {% include navigation.html %}
     </header>
 
     <div class="container">
       <section id="main_content">
-        {{ content }}
+       {{ content }}
       </section>
     </div>
 
@@ -43,5 +59,9 @@
         ga('send', 'pageview');
       </script>
     {% endif %}
+
+    <div class="container-fluid">
+        {% include footer.html %}
+    </div>
   </body>
 </html>
