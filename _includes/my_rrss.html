@@ -2,7 +2,7 @@
 <ul>
   {% for member in site.data.my_rrss %}
     <li>
-      <a href="/{{ member.profile_url }}">{{ member.name }}</a>
+      <a href="{{ member.profile_url }}">{{ member.name }}</a>
     </li>
   {% endfor %}
 </ul>
