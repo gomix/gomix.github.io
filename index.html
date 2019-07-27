@@ -21,9 +21,7 @@ lang: en
 
       <p>Gómez + Linux = Gomix</p>
 
-      <p>If you want to follow me or just read what i write on my social networks, here are the links:</p>
-
-      {% include my_rrss.html %}
+      <p>If you want to follow me or just read what i write on my social networks, look at the footer for the links.</p>
   
     </div>
 
@@ -32,5 +30,26 @@ lang: en
       <p><img src="/images/jpg/matrix/neo-000.jpg" alt="Neo Ready To Code" /></p>
     </div>
   </div>
+
+</section>
+
+<-- Blog Posts -->
+<section class="container-fluid" id="main_content">
+
+  <h1 class="page-heading">Posts</h1>
+
+  <ul class="post-list">
+    {% assign posts=site.posts | where:"lang", page.lang %}
+    {% for post in posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+
 
 </section>

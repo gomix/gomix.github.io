@@ -1,0 +1,11 @@
+<!-- RSS Links (begin)--> 
+  {% for member in site.data.my_rrss %}
+  <!--<a href="{{ member.profile_url }}">{{ member.name }}</a> -->
+    <a href="{{ member.profile_url }}">
+      <img src="{{ member.rrss_icon }}"  
+           title="{{ member.icon_title }}"
+           alt="{{ member.icon_alt }}" 
+           style="width:30px;margin:8px;">
+    </a>
+  {% endfor %}
+<!-- RSS Links (end)  --> 

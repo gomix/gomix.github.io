@@ -1,11 +1,23 @@
 - name: twitter
   profile_url: "https://twitter.com/ggomezs"
+  rrss_icon: "/assets/images/rrss/twitter/social_icons/Twitter_SocialIcon_Circle/Twitter_Social_Icon_Circle_White.svg"
+  icon_title: "Twitter"
+  icon_alt: "Twitter"
 
 - name: linkedin 
   profile_url: "https://www.linkedin.com/in/guillermo-g%C3%B3mez-51112882/"
+  rrss_icon: "/assets/images/rrss/linkedin/social_icons/transparent-on-white.png"
+  icon_title: "LinkedIn"
+  icon_alt: "LinkedIn"
 
 - name: instagram
   profile_url: "https://www.instagram.com/ggomixs/"
+  rrss_icon: "assets/images/rrss/instagram/social_icons/glyph-logo_May2016-white.png"
+  icon_title: "Instagram"
+  icon_alt: "Instagram"
 
 - name: facebook
   profile_url: "https://www.facebook.com/guillermo.gomez.savino"
+  rrss_icon: "/assets/images/rrss/facebook/logos/white/f_logo_RGB-White_58.png"
+  icon_title: "Facebook"
+  icon_alt: "Facebook"
