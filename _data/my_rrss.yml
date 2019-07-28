@@ -21,3 +21,9 @@
   rrss_icon: "/assets/images/rrss/facebook/logos/white/f_logo_RGB-White_58.png"
   icon_title: "Facebook"
   icon_alt: "Facebook"
+
+- name: email
+  profile_url: "mailto:guillermo.gomez@gmail.com"
+  rrss_icon: "/assets/images/rrss/email/social_icons/email-round-icon-transparent-on-white.png"
+  icon_title: "eMail"
+  icon_alt: "MailMe"
