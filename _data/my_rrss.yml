@@ -12,7 +12,7 @@
 
 - name: instagram
   profile_url: "https://www.instagram.com/ggomixs/"
-  rrss_icon: "assets/images/rrss/instagram/social_icons/glyph-logo_May2016-white.png"
+  rrss_icon: "/assets/images/rrss/instagram/social_icons/glyph-logo_May2016-white.png"
   icon_title: "Instagram"
   icon_alt: "Instagram"
 

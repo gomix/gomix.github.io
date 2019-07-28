@@ -1,12 +1,19 @@
-theme: jekyll-theme-hacker
-title: 
-  en: Gomix’s website
-  es: Gomix website
+title: Gomix's Website
+#title: 
+#  en: Gomix’s website
+#  es: Gomix website
+enconfig: utf-8
 email: guillermo.gomez@gmail.com
-description: 
-  en: Writing down my legacy
-  es: Escribiendo mi legado
-index:
-  en: index.html
-  es: indice.html
+description: Writing down my legacy
+#description: 
+#  en: Writing down my legacy
+#  es: Escribiendo mi legado
+index: index.html
+#index:
+#  en: index.html
+#  es: indice.html
 exclude: ['tmp','jekyll-multilingual']
+highlighter: rouge
+plugins:
+  - "jekyll-seo-tag"
+#theme: jekyll-theme-hacker

@@ -1,8 +1,5 @@
 ---
 layout: default
-title:
-  en: Main
-  es: Principal
 title: Main
 ref: index
 lang: en
@@ -30,26 +27,5 @@ lang: en
       <p><img src="/images/jpg/matrix/neo-000.jpg" alt="Neo Ready To Code" /></p>
     </div>
   </div>
-
-</section>
-
-<-- Blog Posts -->
-<section class="container-fluid" id="main_content">
-
-  <h1 class="page-heading">Posts</h1>
-
-  <ul class="post-list">
-    {% assign posts=site.posts | where:"lang", page.lang %}
-    {% for post in posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
 
 </section>
