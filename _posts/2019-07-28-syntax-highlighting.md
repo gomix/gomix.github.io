@@ -8,6 +8,7 @@ author: gomix
 ## Ruby
 {% highlight ruby %}
 app = App.new('a', False)
+very_long_line = "Hello my friend, this very long string assignment is to text horizontal scrolling in the view, in particular, on mobile devices"
 {% endhighlight %}
 
 ## Python
