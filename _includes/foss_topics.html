@@ -1,10 +1,16 @@
-<nav class="navbar">
-  <h1>FOSS Topics</h1>
-  <ul class="nav">
-    {% for member in site.data.foss_topics %}
-      <li class="nav-item">
-        <a class="nav-link" href="{{ member.path }}">{{ member.name }}</a>
-      </li>
-    {% endfor %}
-  </ul> 
-</nav>
+<div class="row">
+  <div class="col-md-3">
+    <h1>FOSS Topics</h1>
+  </div>
+
+  <div class="col-md-9">
+    <nav class="navbar navbar-expand-sm justify-content-end">
+      <ul class="navbar-nav">
+      {% for member in site.data.foss_topics %}
+        <li class="nav-item">
+          <a class="nav-link" href="{{ member.path }}">{{ member.name }}</a>
+        </li>
+      {% endfor %}
+      </ul> 
+    </nav>
+</div>
