@@ -33,16 +33,19 @@
     <header class="container-fluid">
       <div class="row">
         
-        <div class="col-md-2">
-          <img src="/assets/images/gomix/gomix-icon.png" style="height:90px">
+        <div class="col-md-4">
+
+          <h1>
+            <img src="/assets/images/gomix/gomix-icon.png" style="margin-left:25px;margin-right:-15px;height:90px;display:inline-block;">
+            {{ site.title }}
+          </h1>
+
+          <h2>{{ site.description }}</h2>
+
         </div>
 
-        <div class="col-md-4">
-          <h1>{{ site.title | default: site.github.repository_name }}</h1>
-          <h2>{{ site.description | default: site.github.project_tagline }}</h2>
-        </div>
-        <div class="col-md-6">
-        {% include navigation.html %}
+        <div class="col-md-8">
+          {% include navigation.html %}
         </div>
       </div>
     </header>
@@ -54,6 +57,7 @@
 
       </section>
     </div>
+
 
     {% if site.google_analytics %}
       <script>
