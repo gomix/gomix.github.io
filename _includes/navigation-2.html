@@ -5,17 +5,22 @@
     <li class="nav-item">
       <a class="nav-link" href="/posts">Posts</a>
     </li>
-    <li class="nav-item">
-      <a class="nav-link" href="/foss_topics">FOSS</a>
+
+    <li class="nav-item dropdown">
+      <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">FOSS</a>
+       <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+        {% for member in site.data.foss_topics %}
+        <a class="dropdown-item" href="{{ member.path }}">{{ member.name }}</a>
+        {% endfor %}
+      </div>
     </li>
+
     <li class="nav-item dropdown">
       <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Programming</a>
        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-         <a class="dropdown-item" href="/programming/go">Go</a>
-         <a class="dropdown-item" href="/programming/ccplus">C/C++</a>
-         <div class="dropdown-divider"></div>
-         <a class="dropdown-item" href="/programming/ruby">Ruby</a>
-         <a class="dropdown-item" href="/programming/python">Python</a>
+        {% for member in site.data.programming %}
+        <a class="dropdown-item" href="{{ member.path }}">{{ member.name }}</a>
+        {% endfor %}
       </div>
     </li>
     <li class="nav-item">

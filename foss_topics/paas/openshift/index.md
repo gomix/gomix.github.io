@@ -3,8 +3,6 @@ layout: default
 title: OpenShift
 lang: en
 ---
-{% include foss_topics.html %}
-
 # SDN Multiple NICs Pain
 
 My notes about OpenShift.
