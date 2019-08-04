@@ -10,7 +10,9 @@
       <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">FOSS</a>
        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
         {% for member in site.data.foss_topics %}
-        <a class="dropdown-item" href="{{ member.path }}">{{ member.name }}</a>
+        <a class="dropdown-item" href="{{ member.path }}">
+          {{ member.name }}
+        </a>
         {% endfor %}
       </div>
     </li>
@@ -19,7 +21,9 @@
       <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Programming</a>
        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
         {% for member in site.data.programming %}
-        <a class="dropdown-item" href="{{ member.path }}">{{ member.name }}</a>
+        <a class="dropdown-item" href="{{ member.path }}">
+          {{ member.name }}
+        </a>
         {% endfor %}
       </div>
     </li>

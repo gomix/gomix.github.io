@@ -1,11 +1,23 @@
 - name: Go
   path: /programming/go
+  header_logo_src: "/assets/images/programming/logos/gologo-white-transparent.png"
+  menu_item_logo_src: "/assets/images/programming/logos/goicon-blue-transparent.png"
+  alt_text: "Go Programming Language"
 
 - name: Ruby
   path: /programming/ruby
+  header_logo_src: "/assets/images/programming/logos/gologo-white-transparent.png"
+  menu_item_logo_src: "/assets/images/programming/logos/goicon-blue-transparent.png"
+  alt_text: "Ruby Programming Language"
 
 - name: C/C++
   path: /programming/ccplus
+  header_logo_src: "/assets/images/programming/logos/gologo-white-transparent.png"
+  menu_item_logo_src: "/assets/images/programming/logos/goicon-blue-transparent.png"
+  alt_text: "C/C++ Programming Language"
 
 - name: Python
   path: /programming/python
+  header_logo_src: "/assets/images/programming/logos/gologo-white-transparent.png"
+  menu_item_logo_src: "/assets/images/programming/logos/goicon-blue-transparent.png"
+  alt_text: "Python Programming Language"
