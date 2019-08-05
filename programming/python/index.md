@@ -1,10 +1,8 @@
 ---
-layout: default
+layout: programming
 title: Python
 lang: en
 ---
-{% include programming.html %}
-
 # Python
 Some notes on Python programming, mostly on Linux.
 

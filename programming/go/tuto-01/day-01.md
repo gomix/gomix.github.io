@@ -1,10 +1,8 @@
 ---
-layout: default
+layout: programming
 title: Go Tutorial Day 1
 lang: en
 ---
-{% include programming.html %}
-
 {% include go-logo-float-right.html %}
 
 # Go - tutorial day 1

@@ -1,10 +1,8 @@
 ---
-layout: default
+layout: programming
 title: Ruby
 lang: en
 ---
-{% include programming.html %}
-
 {% include ruby-logo-float-right.html %}
 
 # Ruby
