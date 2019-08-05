@@ -12,7 +12,6 @@ Some notes on Go lang programming, mostly on Linux.
 
 ## Go Topics
 * [Packages](docs/packages.html) <span class="badge badge-primary"><< new</span>
-
 * [Imports](docs/imports.html) <span class="badge badge-primary"><< new</span>
 * [Exported Names](docs/exported_names.html) <span class="badge badge-primary"><< new</span>
 * [Functions](docs/functions.html) <span class="badge badge-primary"><< new</span>
