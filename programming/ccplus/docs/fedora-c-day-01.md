@@ -1,6 +1,6 @@
 ---
 layout: programming
-title: CCplus
+title: CCplus Day 1 C in Fedora
 lang: en
 ---
 {% include ccpp-logo-float-right.html %}
