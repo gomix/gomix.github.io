@@ -6,4 +6,6 @@ index: index.html
 exclude: ['tmp','jekyll-multilingual']
 highlighter: rouge
 plugins:
-  - "jekyll-seo-tag"
+  - jekyll-seo-tag
+#  - jekyll-multiple-languages-plugin
+#  - 'jekyll-feed'
