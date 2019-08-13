@@ -9,6 +9,12 @@ lang: en
 
 Installation, follow your OS instructions.
 
+In Fedora, can't be simpler:
+
+{% highlight shell %}
+# dnf install golang
+{% endhighlight %}
+
 ## GOPATH, Go Workspace and Code Organization
 
 Go requires an specific way to organize the code.
