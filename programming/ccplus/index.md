@@ -9,6 +9,7 @@ Some notes on C and C++ programming, mostly on Linux.
 
 # Tutorials and selflearning 
 * [My first C program in Fedora](docs/fedora-c-day-01.html) <span class="badge badge-primary"><< new</span>
+* [C Types I](docs/c-types-01.html) <span class="badge badge-primary"><< new</span>
 
 
 ## Some Links
