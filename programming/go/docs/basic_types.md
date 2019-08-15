@@ -3,6 +3,8 @@ layout: programming
 title: Go Docs Basic Types
 lang: en
 ---
+{% include go-logo-float-right.html %}
+
 # Basic types
 
 Go's basic types are

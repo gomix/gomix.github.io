@@ -3,6 +3,8 @@ layout: programming
 title: Go Docs Imports
 lang: en
 ---
+{% include go-logo-float-right.html %}
+
 # Imports
 
 This code groups the imports into a parenthesized, "factored" import statement.

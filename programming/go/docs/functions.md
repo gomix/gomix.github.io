@@ -3,6 +3,8 @@ layout: programming
 title: Go Docs Functions
 lang: en
 ---
+{% include go-logo-float-right.html %}
+
 # Functions
 
 A function can take zero or more arguments.

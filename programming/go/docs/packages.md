@@ -3,6 +3,8 @@ layout: programming
 title: Go Docs Packages
 lang: en
 ---
+{% include go-logo-float-right.html %}
+
 # Packages
 
 Every Go program is made up of packages.
