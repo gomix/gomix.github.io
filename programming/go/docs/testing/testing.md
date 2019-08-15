@@ -5,9 +5,10 @@ lang: en
 ---
 {% include go-logo-float-right.html %}
 
-# Testing (Work In Progress)
+# Testing 
 
 * [Testing Day 1](day_1.html) <span class="badge badge-primary"><< new</span>
+* [TDD Day 1](tdd_day_1.html) <span class="badge badge-primary"><< new</span>
 
 
 ## External References
