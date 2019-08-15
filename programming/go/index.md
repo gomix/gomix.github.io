@@ -16,7 +16,7 @@ Some notes on Go lang programming, mostly on Linux.
 * [Functions](docs/functions.html) <span class="badge badge-primary"><< new</span>
 * [Imports](docs/imports.html) <span class="badge badge-primary"><< new</span>
 * [Packages](docs/packages.html) <span class="badge badge-primary"><< new</span>
-* [Testing](docs/testing.html) <span class="badge badge-primary"><< new</span>
+* [Testing](docs/testing/testing.html) <span class="badge badge-primary"><< new</span>
 * [Variables](docs/variables.html) <span class="badge badge-primary"><< new</span>
 
 ## Go External Links

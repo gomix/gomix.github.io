@@ -7,6 +7,9 @@ lang: en
 
 # Testing (Work In Progress)
 
+* [Testing Day 1](day-1.html) <span class="badge badge-primary"><< new</span>
+
+
 Let's learn by example. 
 We will start from a very simple code and separate and test an specific function.
 
@@ -49,11 +52,16 @@ func TestHello(t *testing.T) {
 Now, simply,let run our test code using go test command:
 
 {% highlight shell %}
+$ pwd
+/home/gomix/go/src/gochess-00
+
+$ tree
+.
+├── hello_test.go
+└── main.go
+
 $ go test
 PASS
 ok      gochess-00      0.002s
 {% endhighlight %}
 
-## External References
-
-* [golang.org Testing](https://golang.org/pkg/testing/) <span class="badge badge-primary"><< new</span>
