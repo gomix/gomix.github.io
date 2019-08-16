@@ -3,7 +3,7 @@ layout: default
 title: Life of a Hacker
 lang: en
 ---
-Hey!!!! This the why-page, the why i do what i do, because all of us deserve to enjoy life, music, videos, trips, memories, culture, photography, poetry, friendship, sports and anything makes living wothwhile.
+Hey!!!! This the why-page, the why i do what i do, because all of us deserve to enjoy life, music, videos, trips, memories, culture, photography, poetry, friendship, sports and anything makes living worthwhile.
 
 # YouTube Videos and PlayLists
 
