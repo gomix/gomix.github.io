@@ -19,6 +19,7 @@ Some notes on C and C++ programming, mostly on Linux.
 
     
 ## Some External Links
+* [C Guide At freeCodeCamp](https://guide.freecodecamp.org/c/)
 * [C Development On Linux](https://linuxconfig.org/c-development-on-linux-introduction-i)
 * [C Development On Fedora](https://developer.fedoraproject.org/tech/languages/c/c_installation.html)
 
