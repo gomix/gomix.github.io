@@ -35,6 +35,7 @@ Gómez + Linux = Gomix.
   
 ### Virtualization/Containerization
 * libvirt/kvm
+* oVirt
 * Docker/buildah/podman
 * Kubernetes
 * OpenShift/OKD
