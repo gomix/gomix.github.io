@@ -22,6 +22,12 @@
   icon_title: "Facebook"
   icon_alt: "Facebook"
 
+- name: youtube 
+  profile_url: "mailto:guillermo.gomez@gmail.com"
+  rrss_icon: "/assets/images/rrss/youtube/social_icons/youtube.png"
+  icon_title: "YouTube"
+  icon_alt: "YouTube"
+
 - name: email
   profile_url: "mailto:guillermo.gomez@gmail.com"
   rrss_icon: "/assets/images/rrss/email/social_icons/email-round-icon-transparent-on-white.png"
