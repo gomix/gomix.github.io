@@ -44,6 +44,7 @@ Gómez + Linux = Gomix.
 * GCP
 * Vultr
 * Digital Ocean
+* ManageIQ/CloudForms
 
 ### DevOps Tools
 * Ansible/Ansible Tower/AWX
