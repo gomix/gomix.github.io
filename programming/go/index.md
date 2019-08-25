@@ -18,8 +18,9 @@ Some notes on Go lang programming, mostly on Linux.
 * [Packages](docs/packages.html) <span class="badge badge-primary"><< new</span>
 * [Testing](docs/testing/testing.html) <span class="badge badge-primary"><< new</span>
 * [Variables](docs/variables.html) <span class="badge badge-primary"><< new</span>
+* [Make and Go](docs/make.html) <span class="badge badge-primary"><< new</span>
+* [Debugging](docs/debugging.html) <span class="badge badge-primary"><< new</span>
 
 ## Go External Links
 * [Documentation](https://golang.org/doc/)
-* [Packages](https://golang.org/pkg/)
 * [The Go Programming Language Specification](https://golang.org/ref/spec)

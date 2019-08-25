@@ -21,3 +21,21 @@
   header_logo_src: "/assets/images/programming/logos/gologo-white-transparent.png"
   menu_item_logo_src: "/assets/images/programming/logos/goicon-blue-transparent.png"
   alt_text: "Python Programming Language"
+
+- name: SW Engineering
+  path: /programming/swengineering
+  header_logo_src: "/assets/images/programming/logos/swengineering-logo.png"
+  menu_item_logo_src: "/assets/images/programming/logos/goicon-blue-transparent.png"
+  alt_text: "Software Engineering"
+
+- name: SW Maintenance
+  path: /programming/swmaintenance
+  header_logo_src: "/assets/images/programming/logos/swmaintenance-logo.png"
+  menu_item_logo_src: "/assets/images/programming/logos/goicon-blue-transparent.png"
+  alt_text: "Software Maintenance"
+
+- name: Build Systems
+  path: /programming/build_systems
+  header_logo_src: 
+  menu_item_logo_src: 
+  alt_text: "Build Systems"

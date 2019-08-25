@@ -35,3 +35,7 @@ Note: The environment in which these programs are executed is deterministic, so 
 
 ## Related pages
 * [My First Package](/programming/go/docs/my_first_package.html) <span class="badge badge-primary"><< new</span>
+
+## Go External Links
+* [Packages (golang.org)](https://golang.org/pkg/)
+* [Packages (golang-book.com)](https://www.golang-book.com/books/intro/11)
