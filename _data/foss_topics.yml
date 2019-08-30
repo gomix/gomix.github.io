@@ -7,8 +7,8 @@
 - name: OpenShift
   path: /foss_topics/paas/openshift
 
-- name: Apache Kafka
-  path: /foss_topics/middleware/kafka
+- name: Middleware
+  path: /foss_topics/middleware
 
 - name: Fedora
   path: /foss_topics/linux/fedora
