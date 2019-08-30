@@ -15,3 +15,6 @@
 
 - name: Containers
   path: /foss_topics/containerization
+
+- name: DevOps
+  path: /foss_topics/devops
