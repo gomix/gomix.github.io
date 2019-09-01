@@ -75,11 +75,19 @@ header h2 {
   font-size: 18px;
   font-weight: 300;
   color: #666;
-	margin-bottom: 0px;
-	margin-top: 2px;
-	margin-left: -12px;
 }
 
+header h3 {
+  font-size: 16px;
+  font-weight: 300;
+  color: #666;
+}
+
+header h4 {
+  font-size: 14px;
+  font-weight: 300;
+  color: #666;
+}
 #downloads .btn {
   display: inline-block;
   text-align: center;
@@ -254,3 +262,19 @@ a {
 .cf {
   zoom:1;
 }
+
+/**
+ * GSE
+ */
+.gsc-input {
+  margin: 0px;
+  padding: 0px;
+//  border: 0px;
+}
+
+td.gsc-input {
+  margin: 0px;
+  padding: 0px;
+  border: 0px;
+}
+

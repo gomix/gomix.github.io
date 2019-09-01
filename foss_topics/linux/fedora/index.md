@@ -19,7 +19,7 @@ First, make sure your Fedora 29 is updated:
 Then, be sure you have installed the dnf-plugin-system-upgrade:
 
 {% highlight shell %}
-  # dnf install dnf-plugin-system-upgrade
+  # dnf install 'dnf-command(system-upgrade)'
 {% endhighlight %}
 
 Start the system upgrade download with DNF:

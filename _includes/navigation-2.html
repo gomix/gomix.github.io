@@ -1,4 +1,4 @@
-<nav class="navbar navbar-collapse-sm p-0 justify-content-end">
+<nav class="navbar navbar-collapse-sm p-0 ">
 
   <!-- Toggler/collapsibe Button -->
   <!-- <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-2">
@@ -20,18 +20,19 @@
     </ul>
   </div>-->
 
+
   <ul class="nav" id="navbar-2">
 
     <li class="nav-item">
-      <a class="nav-link"href="/">Home</a>
+      <a class="nav-link pl-1 pr-1" href="/">Home</a>
     </li>
 
     <li class="nav-item">
-      <a class="nav-link" href="/posts">Blog</a>
+      <a class="nav-link pl-1 pr-1" href="/posts">Blog</a>
     </li>
 
     <li class="nav-item dropdown">
-      <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">FOSS</a>
+      <a class="nav-link dropdown-toggle pl-1 pr-1" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">FOSS</a>
        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
         {% for member in site.data.foss_topics %}
         <a class="dropdown-item" href="{{ member.path }}">
@@ -42,7 +43,7 @@
     </li>
 
     <li class="nav-item dropdown">
-      <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Programming</a>
+      <a class="nav-link dropdown-toggle pl-1 pr-1" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Programming</a>
        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
         {% for member in site.data.programming %}
         <a class="dropdown-item" href="{{ member.path }}">
@@ -52,13 +53,13 @@
       </div>
     </li>
     <li class="nav-item">
-      <a class="nav-link"href="/about/about_me.html">About Me</a>
+      <a class="nav-link pl-1 pr-1" href="/about/about_me.html">About Me</a>
     </li>
 
     <li class="nav-item">
-      <a class="nav-link" href="/life">Life</a>
+      <a class="nav-link pl-1 pr-1" href="/life">Life</a>
     </li>
 
-
   </ul> 
+
 </nav>
