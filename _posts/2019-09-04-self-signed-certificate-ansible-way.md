@@ -4,6 +4,8 @@ title:  "Self Signed SSL Certificate: Ansible Way"
 author: gomix
 tags: [linux, security, automation]
 ---
+{% include ansible-logo-float-right.html %}
+
 # Self Signed SSL Certificate, the Ansible Way
 
 This post will be just Ansible code, the purpose is to let code speak itself, if you already know some about Ansible, you should be good to go, if not, well follow a begginers tutorial and then comeback.
