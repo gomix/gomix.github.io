@@ -24,6 +24,7 @@ Some notes on Go lang programming, mostly on Linux.
 ## Go External Links
 * [Documentation](https://golang.org/doc/)
 * [The Go Programming Language Specification](https://golang.org/ref/spec)
+* [Online Go Regexp Checker](https://regex-golang.appspot.com/assets/html/index.html)
 
 ### Guides and training
 * [Go Exercism](https://exercism.io/my/tracks/go)
