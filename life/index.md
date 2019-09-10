@@ -27,14 +27,9 @@ Hey!!!! This the why-page, the why i do what i do, because all of us deserve to 
     <iframe width="100%" src="https://www.youtube.com/embed/videoseries?list=PLAx5WRK7eNtnmlqrUY2ADG3KWQa5ciwtm" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
 
-  <!-- Fourth Column -->
-  <div class="col">
-    <h3 class="display-3">PL#1</h3>
-    <iframe width="100%" src="https://www.youtube.com/embed/videoseries?list=PLAx5WRK7eNtlxXgIF6x3ocfntUO6X_R22" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  </div>
 </div>
 
-<!-- Second Column -->
+<!-- Second Row -->
 <div class="row">
   <!-- First Column -->
   <div class="col">
@@ -54,10 +49,20 @@ Hey!!!! This the why-page, the why i do what i do, because all of us deserve to 
     <iframe width="100%" src="https://www.youtube.com/embed/videoseries?list=PLAx5WRK7eNtlfA6bZtiL9g57WRKi1oF9F" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
 
-  <!-- Fourth Column -->
+</div>
+
+<!-- Third Row -->
+<div class="row">
+  <!-- First Column -->
   <div class="col">
     <h3 class="display-3">Rock #1</h3>
     <iframe width="100%" src="https://www.youtube.com/embed/videoseries?list=PLAx5WRK7eNtk26r3U6zGLFEG5cwr31NxY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
+
+  <!-- Second Column -->
+  <div class="col">
+    <h3 class="display-3">PL#1</h3>
+    <iframe width="100%" src="https://www.youtube.com/embed/videoseries?list=PLAx5WRK7eNtlxXgIF6x3ocfntUO6X_R22" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
 
 </div>
