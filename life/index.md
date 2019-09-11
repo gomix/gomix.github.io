@@ -77,6 +77,7 @@ Hey!!!! This the why-page, the why i do what i do, because all of us deserve to 
     <h3 class="display-3 m-0">PL#1</h3>
   </div>
   <div class="col p-0">
+    <h3 class="display-3 m-0">John Williams</h3>
   </div>
 </div>
 
@@ -94,5 +95,6 @@ Hey!!!! This the why-page, the why i do what i do, because all of us deserve to 
 
   <!-- Third Column -->
   <div class="col p-0">
+<iframe width="100%" src="https://www.youtube.com/embed/videoseries?list=PLAx5WRK7eNtnZOttCz2yFB9Rbvi_lZ3BH" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
 </div>
