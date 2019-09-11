@@ -13,4 +13,5 @@ lang: en
 
 ## External References
 
-* [golang.org Testing](https://golang.org/pkg/testing/) <span class="badge badge-primary"><< new</span>
+* [golang.org Testing](https://golang.org/pkg/testing/) 
+* [Go Testing Tips](https://medium.com/@povilasve/go-advanced-tips-tricks-a872503ac859) <span class="badge badge-primary"><< new</span>
