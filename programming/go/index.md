@@ -22,7 +22,7 @@ Some notes on Go lang programming, mostly on Linux.
 * [Debugging](docs/debugging.html) <span class="badge badge-primary"><< new</span>
 
 ## Go Dojo
-* [Maps IV](dojo/maps-1.html) <span class="badge badge-primary"><< new</span>
+* [Maps I](dojo/maps-1.html) <span class="badge badge-primary"><< new</span>
 
 ## Go External Links
 * [Documentation](https://golang.org/doc/)

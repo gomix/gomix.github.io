@@ -40,4 +40,3 @@ func Abbreviate(s string) string {
   return m[s]
 }
 {% endhighlight %}
-
