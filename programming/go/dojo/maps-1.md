@@ -14,7 +14,7 @@ A map maps keys to values.
 
 # Examples
 
-Some examples of working code;
+A first example of working code;
 
 {% highlight go %}
 package acronym
