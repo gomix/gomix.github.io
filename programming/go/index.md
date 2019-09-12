@@ -21,6 +21,9 @@ Some notes on Go lang programming, mostly on Linux.
 * [Make and Go](docs/make.html) <span class="badge badge-primary"><< new</span>
 * [Debugging](docs/debugging.html) <span class="badge badge-primary"><< new</span>
 
+## Go Dojo
+* [Maps IV](dojo/maps-1.html) <span class="badge badge-primary"><< new</span>
+
 ## Go External Links
 * [Documentation](https://golang.org/doc/)
 * [The Go Programming Language Specification](https://golang.org/ref/spec)
