@@ -7,27 +7,48 @@ lang: en
 
 Some notes on Go lang programming, mostly on Linux.
 
-## Tutorial
-* [Go Tutorial - Day 1](tuto-01/day-01.html) <span class="badge badge-primary"><< new</span>
+<div class="row">
+<!-- First Column -->
+<div class="col">
+  <h2>Tutorial</h2>
+    <ul>
+      <li><a href="tuto-01/day-01.html">Go Tutorial - Day 1</a></li>
+    </ul>
 
-## Go Topics
-* [Basic Types](docs/basic_types.html) 
-* [Exported Names](docs/exported_names.html) 
-* [Functions](docs/functions.html) 
-* [Imports](docs/imports.html) 
-* [Packages](docs/packages.html) 
-* [Testing](docs/testing/testing.html) 
-* [Variables](docs/variables.html) 
-* [Make and Go](docs/make.html) 
-* [Debugging](docs/debugging.html) 
+  <h2>Go Topics</h2>
 
-## Go Dojo
-* [Maps I](dojo/maps-1.html) <span class="badge badge-primary"><< new</span>
+  <ul>
+    <li><a href="docs/basic_types.html">Basic Types</a></li>
+    <li><a href="docs/exported_names.html">Exported Names</a></li>
+    <li><a href="docs/functions.html">Functions</a></li>
+    <li><a href="docs/imports.html">Imports</a></li>
+    <li><a href="docs/packages.html">Packages</a></li>
+    <li><a href="docs/testing/testing.html">Testing</a></li>
+    <li><a href="docs/variables.html">Variables</a></li>
+    <li><a href="docs/make.html">Make and Go</a></li>
+    <li><a href="docs/debugging.html">Debugging</a></li>
+  </ul>
+</div>
 
-## Go External Links
-* [Documentation](https://golang.org/doc/)
-* [The Go Programming Language Specification](https://golang.org/ref/spec)
-* [Online Go Regexp Checker](https://regex-golang.appspot.com/assets/html/index.html)
+<!-- Second Column -->
+<div class="col">
+  <h2>Go Dojo</h2>
+  <ul>
+    <li><a href="dojo/maps-1.html">Maps I</a> <span class="badge badge-primary"><< new</span></li>
+  </ul>
 
-### Guides and training
-* [Go Exercism](https://exercism.io/my/tracks/go)
+  <h2>Go External Links</h2>
+  <ul>
+  <li><a href="https://golang.org/doc/">Documentation</a></li>
+  <li><a href="https://golang.org/ref/spec">The Go Programming Language Specification</a></li>
+  <li><a href="https://regex-golang.appspot.com/assets/html/index.html">Online Go Regexp Checker</a></li>
+  </ul>
+
+  <h2>Guides and training</h2>
+  <ul>
+  <li><a href="https://exercism.io/my/tracks/go">Go Exercism</a></li>
+  </ul>
+
+</div>
+</div>
+
