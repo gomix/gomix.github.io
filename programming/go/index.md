@@ -11,15 +11,15 @@ Some notes on Go lang programming, mostly on Linux.
 * [Go Tutorial - Day 1](tuto-01/day-01.html) <span class="badge badge-primary"><< new</span>
 
 ## Go Topics
-* [Basic Types](docs/basic_types.html) <span class="badge badge-primary"><< new</span>
-* [Exported Names](docs/exported_names.html) <span class="badge badge-primary"><< new</span>
-* [Functions](docs/functions.html) <span class="badge badge-primary"><< new</span>
-* [Imports](docs/imports.html) <span class="badge badge-primary"><< new</span>
-* [Packages](docs/packages.html) <span class="badge badge-primary"><< new</span>
-* [Testing](docs/testing/testing.html) <span class="badge badge-primary"><< new</span>
-* [Variables](docs/variables.html) <span class="badge badge-primary"><< new</span>
-* [Make and Go](docs/make.html) <span class="badge badge-primary"><< new</span>
-* [Debugging](docs/debugging.html) <span class="badge badge-primary"><< new</span>
+* [Basic Types](docs/basic_types.html) 
+* [Exported Names](docs/exported_names.html) 
+* [Functions](docs/functions.html) 
+* [Imports](docs/imports.html) 
+* [Packages](docs/packages.html) 
+* [Testing](docs/testing/testing.html) 
+* [Variables](docs/variables.html) 
+* [Make and Go](docs/make.html) 
+* [Debugging](docs/debugging.html) 
 
 ## Go Dojo
 * [Maps I](dojo/maps-1.html) <span class="badge badge-primary"><< new</span>
