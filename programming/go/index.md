@@ -35,6 +35,7 @@ Some notes on Go lang programming, mostly on Linux.
   <h2>Go Dojo</h2>
   <ul>
     <li><a href="dojo/maps-1.html">Maps I</a> <span class="badge badge-primary"><< new</span></li>
+    <li><a href="exercism.html">External exercises</a> <span class="badge badge-primary"><< new</span></li>
   </ul>
 
   <h2>Go External Links</h2>
