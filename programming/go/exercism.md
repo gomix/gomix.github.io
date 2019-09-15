@@ -18,6 +18,7 @@ lang: en
     <li><a href="https://exercism.io/tracks/go/exercises/space-age/solutions/a64ee12516ef452db235c57f42d403c2">Spage Age</a></li>
     <li><a href="https://exercism.io/tracks/go/exercises/two-fer/solutions/b4f99f007ebb4a43a31b9d1e01d5bd26">Two Fer</a></li>
     <li><a href="https://exercism.io/tracks/go/exercises/hamming/solutions/0bc47118bb9340ecb2d9e4007acf31a9">Hamming</a></li>
+    <li><a href="https://exercism.io/tracks/go/exercises/raindrops/solutions/f720ebc2efb74882a39f44fe582bfa17">Raindrops</a></li>
   </ol>
 </div>
 
