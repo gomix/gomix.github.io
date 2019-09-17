@@ -21,8 +21,7 @@ lang: en
     <li><a href="https://exercism.io/tracks/go/exercises/raindrops/solutions/f720ebc2efb74882a39f44fe582bfa17">Raindrops</a></li>
     <li><a href="https://exercism.io/tracks/go/exercises/scrabble-score/solutions/3d034762da584a4190df8dfbfea10fb7">Scrabble Score</a></li>
     <li><a href="https://exercism.io/tracks/go/exercises/isogram/solutions/f60da9437eea4c0b8f7451c8f387d48d">Isogram</a></li>
-
-  </ol>
+    <li><a href="https://exercism.io/tracks/go/exercises/reverse-string/solutions/cdd0a9173dd94155a5b5d830d2223796">Reverse</a></li> </ol>
 </div>
 
 </div>
