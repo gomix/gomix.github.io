@@ -19,6 +19,9 @@ lang: en
     <li><a href="https://exercism.io/tracks/go/exercises/two-fer/solutions/b4f99f007ebb4a43a31b9d1e01d5bd26">Two Fer</a></li>
     <li><a href="https://exercism.io/tracks/go/exercises/hamming/solutions/0bc47118bb9340ecb2d9e4007acf31a9">Hamming</a></li>
     <li><a href="https://exercism.io/tracks/go/exercises/raindrops/solutions/f720ebc2efb74882a39f44fe582bfa17">Raindrops</a></li>
+    <li><a href="https://exercism.io/tracks/go/exercises/scrabble-score/solutions/3d034762da584a4190df8dfbfea10fb7">Scrabble Score</a></li>
+    <li><a href="https://exercism.io/tracks/go/exercises/isogram/solutions/f60da9437eea4c0b8f7451c8f387d48d">Isogram</a></li>
+
   </ol>
 </div>
 
