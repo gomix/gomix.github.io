@@ -5,7 +5,7 @@ lang: en
 ---
 {% include go-logo-float-right.html %}
 
-# Publishes exercises in Go language:
+# Published exercises in Go language:
 
 <div class="row">
 <!-- First Column -->
