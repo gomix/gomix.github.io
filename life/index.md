@@ -10,16 +10,16 @@ Hey!!!! This the why-page, the why i do what i do, because all of us deserve to 
 <!-- First Row Titles -->
 <div class="row ml-1">
   <div class="col p-0">
-    <h3 class="display-3 m-0">Salsa</h3>
+    <h4 class="display-3 m-0">Salsa</h4>
   </div>
   <div class="col p-0">
-    <h3 class="display-3 m-0">Good Mood</h3>
+    <h4 class="display-3 m-0">Good Mood</h4>
   </div>
   <div class="col p-0">
-    <h3 class="display-3 m-0">Oldies</h3>
+    <h4 class="display-3 m-0">Oldies</h4>
   </div>
   <div class="col p-0">
-    <h3 class="display-3 m-0">PL#2</h3>
+    <h4 class="display-3 m-0">PL#2</h4>
   </div>
 </div>
 
@@ -46,16 +46,16 @@ Hey!!!! This the why-page, the why i do what i do, because all of us deserve to 
 <!-- Second Row Titles -->
 <div class="row ml-1">
   <div class="col p-0">
-    <h3 class="display-3 m-0">PL#1</h3>
+    <h4 class="display-3 m-0">PL#1</h4>
   </div>
   <div class="col p-0">
-    <h3 class="display-3 m-0">AC/DC</h3>
+    <h4 class="display-3 m-0">AC/DC</h4>
   </div>
   <div class="col p-0">
-    <h3 class="display-3 m-0">Rock #1</h3>
+    <h4 class="display-3 m-0">Rock #1</h4>
   </div>
   <div class="col p-0">
-    <h3 class="display-3 m-0">Reggae</h3>
+    <h4 class="display-3 m-0">Reggae</h4>
   </div>
 </div
 >
@@ -86,10 +86,10 @@ Hey!!!! This the why-page, the why i do what i do, because all of us deserve to 
 <!-- Third Row Titles -->
 <div class="row ml-1">
   <div class="col p-0">
-    <h3 class="display-3 m-0">Classical Music #1</h3>
+    <h4 class="display-3 m-0">Classical</h4>
   </div>
   <div class="col p-0">
-    <h3 class="display-3 m-0">John Williams</h3>
+    <h4 class="display-3 m-0">John Williams</h4>
   </div>
   <div class="col p-0">
   </div>
