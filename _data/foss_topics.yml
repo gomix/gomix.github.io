@@ -1,3 +1,6 @@
+- name: Rand
+  path: /foss_topics/rand.html
+
 - name: AWS
   path: /foss_topics/cloud_providers/aws
 
