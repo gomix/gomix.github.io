@@ -9,7 +9,7 @@ lang: en
 
 A simple example on how to return a custom error from a function.
 
-{% highlight go %}
+{% highlight go linenos %}
 package grains
 
 import "errors"
