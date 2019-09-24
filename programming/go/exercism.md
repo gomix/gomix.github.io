@@ -35,6 +35,7 @@ lang: en
 <div class="col">
   <ol start="13">
     <li><a href="https://exercism.io/tracks/go/exercises/luhn/solutions/6e2fc0a73fb34183ac4394cfc99f4762">Luhn</a></li> 
+    <li><a href="https://exercism.io/tracks/go/exercises/grains/solutions/24aa3b2e044448d6a33a0a49ce43da54">Grains</a></li> 
   </ol>
 
 </div>
