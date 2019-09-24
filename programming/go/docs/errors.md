@@ -36,3 +36,8 @@ func Square(n int) (uint64, error) {
 }
 {% endhighlight %}
 
+## Guides
+<ul>
+    <li><a href="https://medium.com/gett-engineering/error-handling-in-go-53b8a7112d04">Error Handling in Go</a></li>
+</ul>
+
