@@ -43,7 +43,7 @@ Gómez + Linux = Gomix.
   <tr>
     <td>Python</td>
     <td>PHP</td>
-    <td>HTML/HTML5</td>
+    <td>HTML</td>
   </tr>
 
   <tr>
