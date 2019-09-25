@@ -26,8 +26,21 @@ Gómez + Linux = Gomix.
  
 <!-- Second Column -->
 <div class="col"> 
-  <h3>Programming Languages/Frameworks</h3>
-  <table class="table-dark table-hover table-striped table-responsive-sm">
+<h3>Virtualization and Containers</h3>
+<ul>
+  <li>libvirt/kvm</li>
+  <li>oVirt</li>
+  <li>Docker/buildah/podman</li>
+  <li>Kubernetes</li>
+  <li>OpenShift/OKD</li>
+</ul>
+</div>
+
+<!-- Third Column -->
+<div class="col"> 
+  <h3>Programming Languages, Frameworks and Libraries</h3>
+  <div class="table-responsive-sm">
+  <table class="table-dark table-hover table-striped">
   <tr>
     <td>Assembler</td>
     <td>C/C++</td>
@@ -51,58 +64,92 @@ Gómez + Linux = Gomix.
     <td>JavaScript</td>
     <td>NodeJS</td>
   </tr>
-  </table>
 
+  <tr>
+    <td>Boostrap</td>
+    <td>JQuery</td>
+    <td>SASS</td>
+  </tr>
+  </table>
+  </div>
 
 </div>
 </div>
  
-### Frontend Libraries
-* Boostrap
-* JQuery
-* SASS
-  
-### Virtualization/Containerization
-* libvirt/kvm
-* oVirt
-* Docker/buildah/podman
-* Kubernetes
-* OpenShift/OKD
+<!-- Second Row -->
+<div class="row">
+ <!-- First Column -->
+ <div class="col"> 
+  <h3>Cloud Aware</h3>
+  <ul>
+   <li>AWS</li>
+   <li>GCP</li>
+   <li>Vultr</li>
+   <li>Digital Ocean</li>
+   <li>ManageIQ/CloudForms</li>
+  </ul>
 
-### Cloud Aware
-* AWS
-* GCP
-* Vultr
-* Digital Ocean
-* ManageIQ/CloudForms
+  <h3>Middleware</h3>
+  <ul><li>Apache Kafka</li></ul>
+ </div> 
 
-### DevOps Tools
-* Ansible/Ansible Tower/AWX
-* Terraform
-* Serverspec
-* Chef InSpec
-* Selenium
-* RSpec
-* Cucumber
-* CI/CD Jenkins/Gitlab
-* SCM Git/SVN
+ <!-- Second Column -->
+ <div class="col"> 
+  <h3>DevOps Tools</h3>
+  <ul>
+   <li>Ansible/Ansible Tower/AWX</li>
+   <li>Terraform</li>
+   <li>Serverspec</li>
+   <li>Chef InSpec</li>
+   <li>Selenium</li>
+   <li>RSpec</li>
+   <li>Cucumber</li>
+   <li>CI/CD Jenkins/Gitlab</li>
+   <li>SCM Git/SVN</li>
+  </ul>
+ </div> 
 
-### Middleware
-* Apache Kafka
+ <!-- Third Column -->
+ <div class="col"> 
+  <h3>Backend Software</h3>
+  <ul>
+   <li>NextCloud/Collabora</li>
+   <li>Apache/Nginx Webserver</li>
+   <li>Passenger Apache/Ngin</li>
+   <li>Squid/HAProxy</li>
+   <li>Postfix/Dovecot</li>
+   <li>MySQL/Postgresql</li>
+   <li>firewalld/iptables</li>
+   <li>SELinux</li>
+   <li>OpenVPN</li>
+  </ul>
+ </div> 
+</div> 
 
-### Backend Software
-* NextCloud/Collabora
-* Apache/Nginx Webserver
-* Passenger Apache/Ngin
-* Squid/HAProxy
-* Postfix/Dovecot
-* MySQL/Postgresql
-* firewalld/iptables
-* SELinux
-* OpenVPN
+<div class="row">
+  <h2>Education and Certifications</h2>
+</div>
+<!-- Third Row -->
+<div class="row">
+ <!-- First Column -->
+ <div class="col"> 
+  <ul>
+   <li>Electronics Engineering - Universidad Simón Bolívar</li>
+  </ul>
+ </div> 
+ <!-- Second Column -->
+ <div class="col"> 
+  <ul>
+   <li>RHEL4 RHCE</li>
+  </ul>
 
-# Certifications
-* RHEL4 RHCE
-* freecodecamp portfolio and certifications
-https://www.freecodecamp.org/gomix
-* udemy portfolio and certifications
+ </div> 
+ <!-- Third Column -->
+ <div class="col"> 
+  <ul>
+   <li><a href="https://www.freecodecamp.org/gomix">freecodecamp portfolio</a></li>
+   <li><a href="https://www.udemy.com/user/guillermo-gomez-52/">udemy public portfolio</a></li>
+  </ul>
+
+ </div> 
+</div>
