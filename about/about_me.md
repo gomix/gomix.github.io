@@ -10,24 +10,50 @@ My name is Guillermo, i adopted Gomix as my nickname as merge from Linux name an
 Gómez + Linux = Gomix.
 
 ## Web Resume
-### Operating Systems
-* Red Hat Enterprise Linux 3+
-* CentOS 3+
-* Fedora 1+
-* Debian
-  
-### Programming Languages/Frameworks
-* Assembler
-* C/C++
-* Go
-* Ruby/Rails/Sinatra
-* Python
-* PHP
-* HTML/HTML5
-* CSS
-* JavaScript
-* NodeJS
 
+<!-- First Rowd -->
+<div class="row">
+<!-- First Column -->
+<div class="col"> 
+<h3>Operating Systems</h3>
+<ul>
+<li>Red Hat Enterprise Linux 3+</li>
+<li>CentOS 3+</li>
+<li>Fedora 1+</li>
+<li>Debian</li>
+</ul>
+</div>
+ 
+<!-- Second Column -->
+<div class="col"> 
+<h3>Programming Languages/Frameworks</h3>
+<table class="table-dark table-hover table-striped">
+<tr>
+<td>Assembler</td>
+<td>C/C++</td>
+<td>Go</td>
+<td>Ruby</td>
+</tr>
+
+<tr>
+<td>Rails</td>
+<td>Sinatra</td>
+<td>Python</td>
+<td>PHP</td>
+</tr>
+
+<tr>
+<td>HTML/HTML5</td>
+<td>CSS</td>
+<td>JavaScript</td>
+<td>NodeJS</td>
+</tr>
+</table>
+
+
+</div>
+</div>
+ 
 ### Frontend Libraries
 * Boostrap
 * JQuery
@@ -71,3 +97,9 @@ Gómez + Linux = Gomix.
 * firewalld/iptables
 * SELinux
 * OpenVPN
+
+# Certifications
+* RHEL4 RHCE
+* freecodecamp portfolio and certifications
+https://www.freecodecamp.org/gomix
+* udemy portfolio and certifications
