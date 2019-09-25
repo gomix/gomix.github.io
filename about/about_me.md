@@ -27,7 +27,7 @@ Gómez + Linux = Gomix.
 <!-- Second Column -->
 <div class="col"> 
   <h3>Programming Languages/Frameworks</h3>
-  <table class="table-dark table-hover table-striped table-responsive">
+  <table class="table-dark table-hover table-striped table-responsive-sm">
   <tr>
     <td>Assembler</td>
     <td>C/C++</td>
