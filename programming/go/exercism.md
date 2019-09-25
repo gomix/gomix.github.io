@@ -36,6 +36,7 @@ lang: en
   <ol start="13">
     <li><a href="https://exercism.io/tracks/go/exercises/luhn/solutions/6e2fc0a73fb34183ac4394cfc99f4762">Luhn</a></li> 
     <li><a href="https://exercism.io/tracks/go/exercises/grains/solutions/24aa3b2e044448d6a33a0a49ce43da54">Grains</a></li> 
+    <li><a href="https://exercism.io/tracks/go/exercises/clock/solutions/04c700dbabae493a9e378ddc1fc55828">Clock</a></li> 
   </ol>
 
 </div>
