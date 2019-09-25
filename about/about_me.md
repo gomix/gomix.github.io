@@ -26,29 +26,32 @@ Gómez + Linux = Gomix.
  
 <!-- Second Column -->
 <div class="col"> 
-<h3>Programming Languages/Frameworks</h3>
-<table class="table-dark table-hover table-striped">
-<tr>
-<td>Assembler</td>
-<td>C/C++</td>
-<td>Go</td>
-<td>Ruby</td>
-</tr>
+  <h3>Programming Languages/Frameworks</h3>
+  <table class="table-dark table-hover table-striped">
+  <tr>
+    <td>Assembler</td>
+    <td>C/C++</td>
+    <td>Go</td>
+  </tr>
 
-<tr>
-<td>Rails</td>
-<td>Sinatra</td>
-<td>Python</td>
-<td>PHP</td>
-</tr>
+  <tr>
+    <td>Ruby</td>
+    <td>Rails</td>
+    <td>Sinatra</td>
+  </tr>
 
-<tr>
-<td>HTML/HTML5</td>
-<td>CSS</td>
-<td>JavaScript</td>
-<td>NodeJS</td>
-</tr>
-</table>
+  <tr>
+    <td>Python</td>
+    <td>PHP</td>
+    <td>HTML/HTML5</td>
+  </tr>
+
+  <tr>
+    <td>CSS</td>
+    <td>JavaScript</td>
+    <td>NodeJS</td>
+  </tr>
+  </table>
 
 
 </div>
