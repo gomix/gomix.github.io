@@ -15,6 +15,7 @@ lang: en
     <li><a href="https://exercism.io/tracks/ruby/exercises/two-fer/solutions/caad469a736743c0ae3eaac79bca14a4">TwoFer</a></li>
     <li><a href="https://exercism.io/tracks/ruby/exercises/resistor-color-duo/solutions/56ed92dab5954f0a9a7e6b57979a813b">ResistorColorDuo</a></li>
     <li><a href="https://exercism.io/tracks/ruby/exercises/acronym/solutions/5cf1fe890a2447a4948e66cbea03e1cc">Acronym</a></li>
+    <li><a href="https://exercism.io/tracks/ruby/exercises/high-scores/solutions/96c37b939a25446eb2c19d2e9a4773bf">High Scores</a></li>
   </ol>
 </div>
 <!-- Second Column -->
