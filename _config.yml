@@ -5,7 +5,10 @@ description: Writing down my legacy
 index: index.html
 exclude: ['tmp','jekyll-multilingual']
 highlighter: rouge
+paginate: 4
+paginate_path: "/posts/page:num/"
 plugins:
+  - jekyll-paginate
   - jekyll-seo-tag
 #  - jekyll-multiple-languages-plugin
 #  - 'jekyll-feed'
