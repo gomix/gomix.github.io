@@ -15,6 +15,7 @@ The phenomena:
 # arp -d 10.199.101.103       <-- removing specific address
 # arp -n | grep 103           <-- just proving is not there 
 # ping -w1 -c1 10.199.101.103 <-- using ping to force arp resolution 
+<!--more-->
 PING 10.199.101.103 (10.199.101.103) 56(84) bytes of data.
 
 --- 10.199.101.103 ping statistics ---

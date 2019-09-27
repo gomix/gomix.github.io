@@ -13,12 +13,13 @@ lang: en
 
       <h2 class="">Recent Posts</h2>
       <ul class="post-list">
-      {% for post in site.posts limit:4 %}
+      {% for post in site.posts limit:2 %}
           <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
         <li>
           <h3>
             <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
           </h3>
+          {{ post.excerpt }}
         </li>
       {% endfor %}
       </ul>

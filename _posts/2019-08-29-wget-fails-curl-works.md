@@ -13,6 +13,7 @@ The phenomena:
 ## curl works
 {% highlight shell %}
 [root@9479f6c84cfc /]# curl http://localhost                                                              
+<!--more-->
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html><he
 ad>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">

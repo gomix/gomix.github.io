@@ -9,7 +9,7 @@ tags: [linux, security, automation]
 # Self Signed SSL Certificate, the Ansible Way
 
 This post will be just Ansible code, the purpose is to let code speak itself, if you already know some about Ansible, you should be good to go, if not, well follow a begginers tutorial and then comeback.
-
+<!--more-->
 
 {% highlight yml linenos %}
     - name: Create SSL directories
