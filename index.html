@@ -11,6 +11,28 @@ lang: en
 
       <p>Thanks for visiting my site, which is actually under heavy development.</p>
 
+      <h2 class="">Recent Posts</h2>
+      <ul class="post-list">
+      {% for post in site.posts limit:4 %}
+          <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <li>
+          <h3>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          </h3>
+        </li>
+      {% endfor %}
+      </ul>
+      <p class="text-center"><a href="/posts">More posts in the blog</a></p>
+    </div>
+
+    <div class="col-lg-4">
+        {% include carousel.html %}
+    </div>
+
+  </div>
+
+  <div class="row">
+    <div class="col-lg-12">
       <h2 id="about-myself">About Myself</h2>
 
       <p>My name is Guillermo, i adopted Gomix as my nickname as merge from Linux name and my own lastname, Gómez (taking off the spanish accent to avoid DNS limitations).</p>
@@ -18,12 +40,6 @@ lang: en
       <p>Gómez + Linux = Gomix</p>
 
       <p>If you want to follow me or just read what i write on my social networks, look at the footer for the links.</p>
-  
-    </div>
-
-
-    <div class="col-lg-4">
-        {% include carousel.html %}
     </div>
 
   </div>
