@@ -22,6 +22,12 @@
   menu_item_logo_src: "/assets/images/programming/logos/goicon-blue-transparent.png"
   alt_text: "Python Programming Language"
 
+- name: JavaScript
+  path: /programming/javascript
+  header_logo_src: "/assets/images/javascript/js-logo-1.png"
+  menu_item_logo_src: "/assets/images/javascript/js-logo-1.png"
+  alt_text: "JavaScript Programming Language"
+
 - name: SW Engineering
   path: /programming/swengineering
   header_logo_src: "/assets/images/programming/logos/swengineering-logo.png"
