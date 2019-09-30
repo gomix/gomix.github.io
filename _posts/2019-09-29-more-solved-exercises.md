@@ -4,10 +4,15 @@ title:  "More solved exercises"
 author: gomix
 tags: [news]
 ---
-{% include gomix-logo-float-right.html %}
+<a href="/programming/ruby/"><img src="/assets/images/programming/ruby_go_python_js_1.png" 
+     alt="Programming Languages - Python, Ruby, Go, JavaScript" 
+     class="img-fluid float-right p-2 img-thumbnail"
+    width="260px">
+</a>
 # More solved exercises
 
 Briefly, just follow links below for new solved and published Python and Ruby exercises.
+
 
 * [Programming Python - Solved Exercises](/programming/python/exercism.html)
 * [Programming Ruby - Solved Exercises](/programming/ruby/exercism.html)
