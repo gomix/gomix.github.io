@@ -9,7 +9,11 @@ My name is Guillermo, i adopted Gomix as my nickname as merge from Linux name an
 
 Gómez + Linux = Gomix.
 
+<hr />
+
 ## Web Resume
+
+<hr />
 
 <!-- First Rowd -->
 <div class="row">
@@ -75,6 +79,8 @@ Gómez + Linux = Gomix.
 
 </div>
 </div>
+
+<hr />
  
 <!-- Second Row -->
 <div class="row">
@@ -126,9 +132,10 @@ Gómez + Linux = Gomix.
  </div> 
 </div> 
 
-<div class="row">
-  <h2>Education and Certifications</h2>
-</div>
+<hr />
+
+## Education and Certifications
+
 <!-- Third Row -->
 <div class="row">
  <!-- First Column -->
@@ -153,3 +160,21 @@ Gómez + Linux = Gomix.
 
  </div> 
 </div>
+
+<hr />
+
+<!-- Grid row -->
+<div class="row">
+
+  <div class="col text-center">
+  col
+  </div>
+
+  <!-- Grid column -->
+  <div class="col text-center">
+  col
+  </div>
+
+</div>
+
+<hr />
