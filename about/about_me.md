@@ -175,7 +175,7 @@ Gómez + Linux = Gomix.
       <img class="img-fluid img-thumbnail float-right mr-3" 
            src="/assets/images/paypal/paypal-logo/vertical/pp_cc_mark_37x23.jpg" 
            alt="paypal.me" /></a>
-   <p>For donations or pending payments you can use your PayPal account with your preferred credit card securely. For further options like wires, contact me by email or post me in any of my social network.</p>
+   <p>For donations or pending payments you can use your PayPal account with your preferred credit card securely. For further options like wires or Zelle payments, contact me by email or post any of my social network.</p>
   </div>
 
 </div>
