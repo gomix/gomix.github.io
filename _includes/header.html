@@ -1,30 +1,29 @@
 <header class="container pt-0 pb-2 mb-1">
   <div class="row">
+    <div class="col-3 col-sm-2 col-md-2 col-lg-1 p-0 m-0 text-nowrap">
+      <!-- Gomix picture -->
+      <img src="/assets/images/gomix/gomix-icon.png" 
+           class="text-center img-fluid;"
+           style="height:60px;">
+      <!-- style="margin-right:0px;height:90px;display:inline-block;"> -->
+      <h4 class="text-nowrap mb-0">{{ site.description }}</h4>
+
+    </div>
     <!-- first column -->
-    <div class="col-3 col-sm-4 col-md-4 col-lg-2 p-0">
-      <h1 class="ml-1">
-        <!-- Gomix picture -->
-        <img src="/assets/images/gomix/gomix-icon.png" 
-             style="margin-right:-20px;height:90px;display:inline-block;">
-
-        {{ site.title }}
-
-      </h1>
-
-      <h4 class="text-nowrap pt-1 ml-2 mb-0">{{ site.description }}</h4>
-
+    <div class="col-2 col-sm-2 col-md-1 col-lg-1 p-0 m-0">
+      <h1 class="ml-n4 mt-2">{{ site.title }}</h1>
     </div>
 
     <!-- second column -->
-    <div class="col-8 col-sm-8 col-md-8 col-lg-5 pl-0 pr-0 pt-4">
+    <div class="col-7 col-sm-8 col-md-8 col-lg-6 ml-0 pl-4 pr-0 pt-2">
       {% include navigation-2.html %}
       {% comment %}
       {% include nav/main_menu.html %}
       {% endcomment %}
     </div>
 
-    <!-- fourth columnd -->
-    <div class="col-12 col-sm-12 col-md-12 col-lg-4 ml-1 mr-0 pr-0 pl-0 pt-4">
+    <!-- fourth column -->
+    <div class="col-12 col-sm-12 col-md-12 col-lg-4 ml-0 mr-0 pr-1 pl-1 pt-2">
       <script async src="https://cse.google.com/cse.js?cx=016387024853945103292:zsykhrhfoua"></script>
       <div class="gcse-searchbox-only"></div>
     </div>
