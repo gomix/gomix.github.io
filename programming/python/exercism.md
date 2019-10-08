@@ -23,6 +23,7 @@ lang: en
 <div class="col">
   <ol start="7">
     <li><a href="https://exercism.io/tracks/python/exercises/series/solutions/2fbb5d3224eb4f478b7e90c759cbedad">Series</a></li>
+    <li><a href="https://exercism.io/tracks/python/exercises/word-count/solutions/463c7480cfb547ee9c4ff6343cdb7ef5">Word Count</a></li>
   </ol>
 
 </div>
