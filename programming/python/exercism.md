@@ -5,7 +5,7 @@ lang: en
 ---
 {% include python-logo-float-right.html %}
 
-# Published solved exercises in Python language
+# Published solved exercises in Python
 
 <div class="row">
 <!-- First Column -->
@@ -22,6 +22,7 @@ lang: en
 <!-- Second Column -->
 <div class="col">
   <ol start="7">
+    <li><a href="https://exercism.io/tracks/python/exercises/series/solutions/2fbb5d3224eb4f478b7e90c759cbedad">Series</a></li>
   </ol>
 
 </div>

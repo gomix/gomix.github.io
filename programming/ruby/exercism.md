@@ -5,7 +5,7 @@ lang: en
 ---
 {% include ruby-logo-float-right.html %}
 
-# Published solved exercises in Ruby language:
+# Published solved exercises in Ruby
 
 <div class="row">
 <!-- First Column -->
@@ -22,6 +22,8 @@ lang: en
 <!-- Second Column -->
 <div class="col">
   <ol start="7">
+    <li><a href="https://exercism.io/tracks/ruby/exercises/series/solutions/133718d403a94ce287660b2708ed78b6">Series</a></li>
+    <li><a href="https://exercism.io/tracks/ruby/exercises/word-count/solutions/217bb68b5cbc46b28bc4e3a80b21ee53">Word Count</a></li>
   </ol>
 
 </div>
