@@ -1,0 +1,28 @@
+---
+layout: programming
+title: Python Regexp
+lang: en
+---
+{% include python-logo-float-right.html %}
+
+<h1>Regexp using module re</h1>
+
+<h2>Sample use case #1: re.findall</h2>
+
+This is a first simple and useful example of regexp power. In this case we use to split a long string into a list of english words, including support for apostrophe words and rejecting any non word character (aka [a-zA-Z0-9]..
+
+{% highlight shell linenos %}
+>>> import re
+>>> pattern = '[a-zA-Z0-9_\']+'
+>>> test_string = "word palabra don't 1 Word 34 bEach"
+>>> words = re.findall(pattern, test_string)
+>>> words
+['word', 'palabra', "don't", '1', 'Word', '34', 'bEach']
+{% endhighlight %}
+
+
+<h1>References</h1>
+
+<ul>
+  <li><a href="https://docs.python.org/3/library/re.html">re module</a></li>
+</ul>
