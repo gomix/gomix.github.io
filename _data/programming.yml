@@ -28,6 +28,12 @@
   menu_item_logo_src: "/assets/images/javascript/js-logo-1.png"
   alt_text: "JavaScript Programming Language"
 
+- name: Bash
+  path: /programming/bash
+  header_logo_src: "/assets/images/bash/bash-logo-1.png"
+  menu_item_logo_src: "/assets/images/bash/bash-logo-1.png"
+  alt_text: "Bash Programming"
+
 - name: SW Engineering
   path: /programming/swengineering
   header_logo_src: "/assets/images/programming/logos/swengineering-logo.png"
