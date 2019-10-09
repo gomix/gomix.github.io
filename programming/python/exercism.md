@@ -24,6 +24,7 @@ lang: en
   <ol start="7">
     <li><a href="https://exercism.io/tracks/python/exercises/series/solutions/2fbb5d3224eb4f478b7e90c759cbedad">Series</a></li>
     <li><a href="https://exercism.io/tracks/python/exercises/word-count/solutions/463c7480cfb547ee9c4ff6343cdb7ef5">Word Count</a></li>
+    <li><a href="https://exercism.io/tracks/python/exercises/darts/solutions/265672dbf37e48968a7bf422518700e2">Darts</a></li>
   </ol>
 
 </div>
