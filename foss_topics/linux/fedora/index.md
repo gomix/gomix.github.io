@@ -6,36 +6,46 @@ lang: en
 {% include fedora-logo-float-right.html %}
 
 # Fedora
-My notes on Fedora.
+My notes on Fedora, my distro since Fedora Core 1 (Yarrow).
 
-## Upgrading F29 -> F30
+<!-- First Row -->
+<div class="row">
 
-First, make sure your Fedora 29 is updated:
+<!-- First Column -->
+<div class="col">
+  <h2>Topics</h2>
 
-{% highlight shell %}
-  # dnf upgrade --refresh
-{% endhighlight %}
+  <ul>
+    <li><a href="docs/distro-upgrade.md">Fedora Upgrade</a></li>
+  </ul>
+</div>
 
-Then, be sure you have installed the dnf-plugin-system-upgrade:
+<!-- Second Column -->
+<div class="col">
+  <h2>External Links</h2>
+  <ul>
+    <li><a href="https://getfedora.org/">getfedora.org</a></li>
+  </ul>
 
-{% highlight shell %}
-  # dnf install 'dnf-command(system-upgrade)'
-{% endhighlight %}
+  <h2>Guides and Onlines Books</h2>
+  <ul>
+    <li><a href="#">wip</a></li>
+  </ul>
+</div>
 
-Start the system upgrade download with DNF:
+</div>
 
-{% highlight shell %}
-  # dnf system-upgrade download --releasever=30
-{% endhighlight %}
 
-Reboot and upgrade.
+<!-- Second Row -->
 
-Once the previous command finishes downloading all of the upgrades, your system will be ready for rebooting. To boot your system into the upgrade process, type the following command in a terminal:
+<!-- First Column -->
+<div class="col">
+  <h2>Inkwell</h2>
+  <ul>
+    <li><a href="#" class="text-danger">wip</a></li>
+  </ul>
+</div>
 
-{% highlight shell %}
-  # dnf system-upgrade reboot
-{% endhighlight %}
 
-More details in [Fedora Magazine](https://fedoramagazine.org/upgrading-fedora-29-to-fedora-30/).
 
 
