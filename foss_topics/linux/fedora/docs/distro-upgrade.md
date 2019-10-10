@@ -5,10 +5,7 @@ lang: en
 ---
 {% include fedora-logo-float-right.html %}
 
-# Fedora
-My notes on Fedora.
-
-## Upgrading F29 -> F30
+# Upgrading F29 -> F30
 
 First, make sure your Fedora 29 is updated:
 

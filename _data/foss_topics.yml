@@ -4,20 +4,20 @@
 - name: AWS
   path: /foss_topics/cloud_providers/aws
 
-- name: CGroups
-  path: /foss_topics/kernel/cgroups
+- name: Containers
+  path: /foss_topics/containers
+
+- name: Kubernetes
+  path: /foss_topics/kubernetes
 
 - name: OpenShift
-  path: /foss_topics/paas/openshift
+  path: /foss_topics/openshift
 
 - name: Middleware
   path: /foss_topics/middleware
 
-- name: Fedora
-  path: /foss_topics/linux/fedora
-
-- name: Containers
-  path: /foss_topics/containerization
+- name: Linux
+  path: /foss_topics/linux
 
 - name: DevOps
   path: /foss_topics/devops

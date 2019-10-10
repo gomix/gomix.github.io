@@ -1,6 +1,6 @@
 ---
-layout: default
-title: CGroups
+layout: foss
+title: Linux CGroups
 lang: en
 ---
 # Kernel CGroups

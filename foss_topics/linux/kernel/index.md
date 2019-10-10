@@ -1,12 +1,13 @@
 ---
-layout: default
-title: Fedora
+layout: foss
+title: Kernel Linux
 lang: en
 ---
-{% include fedora-logo-float-right.html %}
+{% include linux-kernel-logo-float-right.html %}
 
-# Fedora
-My notes on Fedora, my distro since Fedora Core 1 (Yarrow).
+# Kernel Linux
+
+Some notes about the Kernel Linux.
 
 <!-- First Row -->
 <div class="row">
@@ -16,7 +17,7 @@ My notes on Fedora, my distro since Fedora Core 1 (Yarrow).
   <h2>Topics</h2>
 
   <ul>
-    <li><a href="docs/distro-upgrade.html">Fedora Upgrade</a></li>
+    <li><a href="cgroups/index.html">cgroups</a></li>
   </ul>
 </div>
 
@@ -24,7 +25,7 @@ My notes on Fedora, my distro since Fedora Core 1 (Yarrow).
 <div class="col">
   <h2>External Links</h2>
   <ul>
-    <li><a href="https://getfedora.org/">getfedora.org</a></li>
+    <li><a href="https://www.linux.org/">linux.org</a></li>
   </ul>
 
   <h2>Guides and Onlines Books</h2>
@@ -45,7 +46,5 @@ My notes on Fedora, my distro since Fedora Core 1 (Yarrow).
     <li><a href="#" class="text-danger">wip</a></li>
   </ul>
 </div>
-
-
 
 
