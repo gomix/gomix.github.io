@@ -24,6 +24,7 @@ lang: en
   <ol start="7">
     <li><a href="https://exercism.io/tracks/ruby/exercises/series/solutions/133718d403a94ce287660b2708ed78b6">Series</a></li>
     <li><a href="https://exercism.io/tracks/ruby/exercises/word-count/solutions/217bb68b5cbc46b28bc4e3a80b21ee53">Word Count</a></li>
+    <li><a href="https://exercism.io/tracks/ruby/exercises/hamming/solutions/a9b0983c5fa246aebe3bed2214de4f3c">Hamming</a></li>
   </ol>
 
 </div>
