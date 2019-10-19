@@ -1,7 +1,9 @@
 title: Gomix 
 enconfig: utf-8
 email: guillermo.gomez@gmail.com
-description: Writing down my legacy
+description: 
+  en: Writing down my legacy
+  es: Escribiendo mi legado
 index: index.html
 exclude: ['tmp','jekyll-multilingual']
 highlighter: rouge

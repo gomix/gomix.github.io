@@ -1,0 +1,50 @@
+---
+layout: default-es
+title: Principal
+lang: es
+permalink: /es/
+---
+<section class="container-fluid" id="main_content">
+
+  <div class="row">
+    <div class="col-lg-8">
+      <h1 id="welcome">Bienvenido</h1>
+
+      <p>Gracias por visitar mi sitio que actualmente se encuentra bajo desarrollo intenso.</p>
+      
+      <h2 class="">Publicaciones Recientes</h2>
+      <ul class="post-list">
+      {% for post in site.posts limit:2 %}
+          <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <li>
+          <h3>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          </h3>
+          {{ post.excerpt }}
+        </li>
+        <hr class="style1">
+      {% endfor %}
+      </ul>
+      <p class="text-center"><a href="/posts">More posts in the blog</a></p>
+    </div>
+
+    <div class="col-lg-4">
+        {% include carousel.html %}
+    </div>
+
+  </div>
+
+  <div class="row">
+    <div class="col-lg-12">
+      <h2 id="about-myself">Acerca de mí</h2>
+
+      <p>Mi nombre es Guillermo, adopté el nickname a partir de la fusión del nombre Linux y de mi propio apellido Gómez, evitando el acento por las limitaciones DNS.</p>
+
+      <p>Gómez + Linux = Gomix</p>
+
+      <p>Si desea seguirme o simplemente leerme en las redes sociales, mire abajo que le he dejado los enlaces correspondientes.</p>
+    </div>
+
+  </div>
+
+</section>
