@@ -3,6 +3,7 @@ layout: post
 title:  "wget fails, curl works"
 author: gomix
 tags: [linux, debug, http]
+lang: en
 ---
 # Wget fails, Curl works 
 

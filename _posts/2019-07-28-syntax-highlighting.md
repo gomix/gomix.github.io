@@ -2,6 +2,7 @@
 layout: post
 title:  "Syntax Highlight"
 author: gomix
+lang: en
 ---
 # Testing syntax highlighting
 

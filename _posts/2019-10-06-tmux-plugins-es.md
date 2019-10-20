@@ -1,23 +1,23 @@
 ---
 layout: post
-title:  "tmux plugins (en)"
+title:  "tmux plugins (es)"
 author: gomix
 tags: [foss]
-lang: en
+lang: es
 ---
 <img src="/assets/images/tmux/tmux-logo-dark-medium.png" 
      alt="tmux Terminal Multiplexer logo" 
      class="img-fluid float-right m-2"
     width="260px">
 
-# Just discovered tmux plugins
+# Descubriendo los plugins de tmux
 
-As always in my carrer i've been pushed by the needs to solve and specific problem, this time i was just about to upgrade my Fedora 29 to Fedora 30, i'm already late! Then i was to reboot and proceed and then accounted my tmux list-sessions to try to recover them later on. Then it came to me the idea that there should be a sort of "restore my session" support for tmux, and as almost always happens with FOSS,  we have a solution and searching the net the way to go.
+Como siempre en mi carrera, ocurre que se presenta la necesidad de resolver un problema específico, en esta ocasión estaba por actualizar mi Fedora 29 a Fedora 30, ya estoy algo retrasado! Estaba por reiniciar y proceder y me acordé de mis sesiones tmux activas y pensaba de si existía alguna manera de recuperarlas. Entonces se ocurrió la idea de que debería existir algún tipo de soporte para "restaurar mi sesión" en tmux y como suele ocurrir muy frecuentemente en el mundo del software libre, encontré solución buscando en la red, descubrí los plugins tmux:
 
 <!--more-->
 * [tmux plugins at github](https://github.com/tmux-plugins)
 
-If you are new to tmux plugins, as i am, start by reviewing your tmux version. This is what i get from my F29 installation.
+Si usted como yo, es nuevo con los plutins de tmux,  comience por revisar la versión de tmux instalada. En mi caso en F29 obtengo:
 
 {% highlight shell %}
 ~(gomix) tmux -V
@@ -49,7 +49,7 @@ intended to be a simple, modern, BSD-licensed alternative to programs such
 
 {% endhighlight %}
 
-As i can verify from tmux main site at github, we have in F29 a very recent version. Also, before trying to install from other methods, i made a search on dnf repos:
+Como pude verificar en el sitio principal de tmux en github, tenemos en F29 una versión suficientemente reciente. También, antes de intentar instalar por otros métodos, hice una búsqueda en los repos dnf:
 
 {% highlight shell %}
 ~(gomix) dnf search tmux
@@ -65,14 +65,14 @@ tmuxinator.noarch : Create and manage complex tmux sessions easily
 tmux-top.x86_64 : Monitoring information for your tmux status line.
 {% endhighlight %}
 
-We don't really have a first support for tmux plugins from Fedora packages, perhaps you can start packaging some to get involved in Fedora.
+No tenemos realmente un soporte de primer nivel para los plugins tmux en los paquetes Fedora, tal vez usted pueda iniciar su proyecto de empaquetamiento en Fedora.
 
-Moving on into my cruise to F29 -> F30 upgrade and "restore my sessions in tmux", the tmux plugins needed to solve the problem are:
+Descartando los repos dnf como método de instalación y continuando con mi proceso de actualización F29 -> F30, los plugins que necesitaba para resolver el asunto son:
 
 * [tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect)
 * [tmux-continuum](https://github.com/tmux-plugins/tmux-continuum)
 
-So, i need to install them, how? We know already know we can't from Fedora official repos, what about third party repos? After a quick search on third party common dnf/yum repos, i don't find any, so i move forward with [Tmux Plugin Manager (tpm)](https://github.com/tmux-plugins/tpm) instructions.
+Entonces, a instalar. Cómo? Ya sabemos que no podemos desde los repos oficiales Fedora. Qué tal desde repos de terceros? Después de una búsqueda rápida en los repos comunes de terceros para Fedora, no encontré ningún paquete que me ayudara, de allí que decidí seguir las instrucciones en [Tmux Plugin Manager (tpm)](https://github.com/tmux-plugins/tpm) para avanzar.
 
 {% highlight shell %}
 ~(gomix) git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
@@ -83,7 +83,7 @@ Receiving objects: 100% (904/904), 189.41 KiB | 132.00 KiB/s, done.
 Resolving deltas: 100% (577/577), done.
 {% endhighlight %}
 
-My ~/.tmux.conf added lines:
+Las líneas que agregué a mi ~/.tmux.conf:
 
 {% highlight shell %}
 ...
@@ -100,15 +100,15 @@ set -g @plugin 'tmux-plugins/tmux-sensible'
 run -b '~/.tmux/plugins/tpm/tpm'
 {% endhighlight %}
 
-Since tmux is running, i do have to reload the configuration:
+Ya que tmux se está ejecutando, debo recargar la configuración (para no cerrar mis sesiones)::
 
 {% highlight shell %}
 ~(gomix) tmux source ~/.tmux.conf
 {% endhighlight %}
 
-## Installing plugins with tpm
+## Instalando plugins con tpm
     
-Add new plugin to ~/.tmux.conf with set -g @plugin '...'
+Agregue el nuevo plugin a ~/.tmux.conf con set -g @plugin '...'
 
 {% highlight shell %}
 ...
@@ -119,22 +119,22 @@ set -g @plugin 'tmux-plugins/tmux-resurrect'
 set -g @plugin 'tmux-plugins/tmux-continuum'
 {% endhighlight %}
 
-Press prefix + I (capital i, as in Install) to fetch the plugins in a tmux session. You can see the sources are installed looking at your configured tmux plugins directory:
+Presione su prefijo + I (I mayúscula) para descargar los plugins en la sesión tmux. Puede ver los fuentes descargados e instalados en el directorio configurado de tmux:
 
 {% highlight shell %}
 ~(gomix) ls ~/.tmux/plugins/ 
 tmux-continuum  tmux-resurrect  tmux-sensible  tpm
 {% endhighlight %}
 
-Final setup just needs another configuration line added:
+El ajuste final es una línea más en el archivo de configuración:
 
 {% highlight shell %}
 set -g @continuum-restore 'on'
 {% endhighlight %}
 
-## Usage
+## Uso
 
-With this configuration, there’s no need to do anything manually. Your tmux sessions will be automatically saved every 15 minutes and automatically restored when tmux is started (e.g. after a reboot). You can manually save with prefix-Ctrl-s and manually restore with prefix-Ctrl-r if desired.
+Con esta configuración no hay necesidad de hacer nada manualmente. Sus sesiones tmux serán automáticamente guardadas cada 15 minutos y automáticamente restauradas cuando tmux se inicie (e.g. después de un reinicio). Usted, si lo desea, puede manualmente forzar guardar y restaurar con prefijo-Ctrl-s y prefijo-Ctrl-r respectivamente.
 
 _Guillermo_
 

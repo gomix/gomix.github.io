@@ -2,6 +2,7 @@
 layout: post
 title:  "Welcome!"
 author: gomix
+lang: en
 ---
 ## My first post, WIP...
 

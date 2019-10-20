@@ -3,6 +3,7 @@ layout: post
 title:  "Posts on Home"
 author: gomix
 tags: [news]
+lang: en
 ---
 {% include gomix-logo-float-right.html %}
 # Post on Home

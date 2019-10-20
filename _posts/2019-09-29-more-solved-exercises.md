@@ -3,6 +3,7 @@ layout: post
 title:  "More solved exercises"
 author: gomix
 tags: [news]
+lang: en
 ---
 <img src="/assets/images/programming/ruby_go_python_js_1.png" 
      alt="Programming Languages - Python, Ruby, Go, JavaScript" 

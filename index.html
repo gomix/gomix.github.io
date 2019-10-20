@@ -11,20 +11,8 @@ lang: en
 
       <p>Thanks for visiting my site, which is actually under heavy development.</p>
 
-      <h2 class="">Recent Posts</h2>
-      <ul class="post-list">
-      {% for post in site.posts limit:2 %}
-          <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-        <li>
-          <h3>
-            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-          </h3>
-          {{ post.excerpt }}
-        </li>
-        <hr class="style1">
-      {% endfor %}
-      </ul>
-      <p class="text-center"><a href="/posts">More posts in the blog</a></p>
+      {% include recent_posts.html %}
+
     </div>
 
     <div class="col-lg-4">

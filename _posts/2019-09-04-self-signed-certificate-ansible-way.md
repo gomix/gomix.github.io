@@ -3,6 +3,7 @@ layout: post
 title:  "Self Signed SSL Certificate: Ansible Way"
 author: gomix
 tags: [linux, security, automation]
+lang: en
 ---
 {% include ansible-logo-float-right.html %}
 

@@ -8,23 +8,26 @@ lang: en
   <div class="row">
     <div class="col-lg-8">
       <h1 class="page-heading">Posts</h1>
-      <ul class="post-list">
         {% for post in paginator.posts %}
-        <li>
           <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-          <h3>
-            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-          </h3>
           {{ post.excerpt }}
-        </li>
+          <br>
+          <h3 class=" text-center">
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+              <span class="badge badge-pill badge-primary">
+              Continue reading >>
+              </span>
+            </a>
+          </h3>
+          <hr>
         {% endfor %}
-      </ul>
 
       {% include posts-pagination.html %}
     </div>
 
     <div class="col-lg-4">
-      <p><img src="/assets/images/unsplash/andrew-santellan-kc3AYIVIpX4-unsplash.jpg" alt="Code is art"></p>
+      <p><img src="/assets/images/unsplash/andrew-santellan-kc3AYIVIpX4-unsplash.jpg" 
+              alt="Code is art"></p>
     </div>
 
   </div>
