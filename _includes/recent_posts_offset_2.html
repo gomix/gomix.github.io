@@ -1,5 +1,4 @@
-<h2 class="">Recent Posts</h2>
-{% for post in site.posts limit:2 offset: 0 %}
+{% for post in site.posts limit:2 offset: 2 %}
   <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
   {{ post.excerpt }}
@@ -14,5 +13,7 @@
 
   <hr>
 {% endfor %}
+
+
 
 <p class="text-center"><a href="/posts">More posts in the blog</a></p>
