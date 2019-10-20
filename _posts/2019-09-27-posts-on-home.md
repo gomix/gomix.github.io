@@ -6,7 +6,7 @@ tags: [news]
 lang: en
 ---
 {% include gomix-logo-float-right.html %}
-# Post on Home
+# Posts on Home
 
 Continuing my quest with my new site, i decided to include recent posts on the main page in order to produce blog posts with recent activity done basically on "pages" area in order to keep content organized and structured so you can benefit and i can keep feeding such topics consistently instead of posting content which looses its value after some time and becames dispersed information.
 <!--more-->
