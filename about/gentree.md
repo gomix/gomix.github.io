@@ -65,8 +65,8 @@ Starting with a simple list of images:
       <a href="#" class="">
         <img class="img-fluid" 
              src="/assets/images/gentree/abuela-margarita.png"
-             title="Margarita Fiorio 14-07-1908/"
-             alt="Margarita Fiorio 14-07-1908/">
+             title="Margarita Fiorio 14-07-1908/??-09-1999"
+             alt="Margarita Fiorio 14-07-1908/??-09-1999">
       </a>
     </div>
 
