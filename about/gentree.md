@@ -65,7 +65,8 @@ Starting with a simple list of images:
       <a href="#" class="">
         <img class="img-fluid" 
              src="/assets/images/gentree/abuela-margarita.png"
-             alt="">
+             title="Margarita Fiorio 14-07-1908/"
+             alt="Margarita Fiorio 14-07-1908/">
       </a>
     </div>
 
@@ -73,7 +74,8 @@ Starting with a simple list of images:
       <a href="#" class="">
         <img class="img-fluid" 
              src="/assets/images/gentree/jcm-savino.png"
-             alt="">
+             title="Juan Carlos Miguel Savino 05-12-1905/17-12-1984"
+             alt="Juan Carlos Miguel Savino 05-12-1905/17-12-1984">
       </a>
     </div>
 
@@ -81,7 +83,8 @@ Starting with a simple list of images:
       <a href="#" class="">
         <img class="img-fluid" 
              src="/assets/images/gentree/carmen-perez.png"
-             alt="">
+             title="Carmen Ramona Pérez 23-07-1905/23-11-1986"
+             alt="Carmen Ramona Pérez 23-07-1905/23-11-1986">
       </a>
     </div>
 
@@ -89,7 +92,8 @@ Starting with a simple list of images:
       <a href="#" class="">
         <img class="img-fluid" 
              src="/assets/images/gentree/luis-gomez.png"
-             alt="">
+             title="Luis Antonio Gómez 18-02-1905/16-08-1985"
+             alt="Luis Antonio Gómez 18-02-1905/16-08-1985">
       </a>
     </div>
   </div>
@@ -99,7 +103,8 @@ Starting with a simple list of images:
       <a href="#" class="">
         <img class="img-fluid" 
              src="/assets/images/gentree/margarita-savino.png"
-             alt="">
+             title="Margarita Savino 08-08-1940/31-10-1988"
+             alt="Margarita Savino 08-08-1940/31-10-1988">
       </a>
     </div>
 
@@ -107,7 +112,8 @@ Starting with a simple list of images:
       <a href="#" class="">
         <img class="img-fluid" 
              src="/assets/images/gentree/argenis-gomez.png"
-             alt="">
+             title="Argenis Gómez Pérez 14-12-1932"
+             alt="Argenis Gómez Pérez 14-12-1932">
       </a>
     </div>
   </div>
@@ -118,7 +124,8 @@ Starting with a simple list of images:
       <a href="#" class="">
         <img class="img-fluid" 
              src="/assets/images/gentree/ggs.png"
-             alt="">
+             title="Guillermo José Gómez Savino 05-01-1968"
+             alt="Guillermo José Gómez Savino 05-01-1968">
       </a>
     </div>
   </div>
