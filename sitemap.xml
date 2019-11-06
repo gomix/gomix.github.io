@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://gomix.github.io/</loc>
+  <lastmod>2019-10-22T23:08:24+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://gomix.github.io/posts/</loc>
+  <lastmod>2019-10-22T23:08:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gomix.github.io/foss_topics/linux/</loc>
+  <lastmod>2019-10-22T23:08:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gomix.github.io/foss_topics/rand.html</loc>
+  <lastmod>2019-10-22T23:08:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gomix.github.io/foss_topics/cloud_providers/aws/</loc>
+  <lastmod>2019-10-22T23:08:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gomix.github.io/foss_topics/containers/</loc>
+  <lastmod>2019-10-22T23:08:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gomix.github.io/foss_topics/openshift/</loc>
+  <lastmod>2019-10-22T23:08:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gomix.github.io/foss_topics/middleware/</loc>
+  <lastmod>2019-10-22T23:08:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gomix.github.io/foss_topics/devops/</loc>
+  <lastmod>2019-10-22T23:08:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gomix.github.io/foss_topics/rdbms/</loc>
+  <lastmod>2019-10-22T23:08:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gomix.github.io/programming/go/</loc>
+  <lastmod>2019-10-22T23:08:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gomix.github.io/programming/python/</loc>
+  <lastmod>2019-10-22T23:08:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gomix.github.io/programming/ruby/</loc>
+  <lastmod>2019-10-22T23:08:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gomix.github.io/programming/ccplus/</loc>
+  <lastmod>2019-10-22T23:08:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gomix.github.io/programming/javascript/</loc>
+  <lastmod>2019-10-22T23:08:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gomix.github.io/programming/bash/</loc>
+  <lastmod>2019-10-22T23:08:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gomix.github.io/programming/swengineering/</loc>
+  <lastmod>2019-10-22T23:08:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gomix.github.io/programming/swmaintenance/</loc>
+  <lastmod>2019-10-22T23:08:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gomix.github.io/programming/build_systems/</loc>
+  <lastmod>2019-10-22T23:08:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gomix.github.io/about/about_me.html</loc>
+  <lastmod>2019-10-22T23:08:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gomix.github.io/life/</loc>
+  <lastmod>2019-10-22T23:08:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gomix.github.io/2019/10/06/tmux-plugins.html</loc>
+  <lastmod>2019-10-22T23:08:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gomix.github.io/2019/10/06/tmux-plugins-es.html</loc>
+  <lastmod>2019-10-22T23:08:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gomix.github.io/programming/python/exercism.html</loc>
+  <lastmod>2019-10-22T23:08:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gomix.github.io/programming/ruby/exercism.html</loc>
+  <lastmod>2019-10-22T23:08:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gomix.github.io/2019/09/29/more-solved-exercises.html</loc>
+  <lastmod>2019-10-22T23:08:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gomix.github.io/2019/09/27/posts-on-home.html</loc>
+  <lastmod>2019-10-22T23:08:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gomix.github.io/posts/page2/</loc>
+  <lastmod>2019-10-22T23:08:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://gomix.github.io/foss_topics/linux/fedora/index.html</loc>
+  <lastmod>2019-10-22T23:08:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://gomix.github.io/foss_topics/linux/bash/index.html</loc>
+  <lastmod>2019-10-22T23:08:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://gomix.github.io/foss_topics/linux/kernel/index.html</loc>
+  <lastmod>2019-10-22T23:08:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://gomix.github.io/foss_topics/containers/buildah/</loc>
+  <lastmod>2019-10-22T23:08:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://gomix.github.io/foss_topics/middleware/kafka/</loc>
+  <lastmod>2019-10-22T23:08:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://gomix.github.io/foss_topics/devops/ansible/</loc>
+  <lastmod>2019-10-22T23:08:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://gomix.github.io/foss_topics/rdbms/postgresql/</loc>
+  <lastmod>2019-10-22T23:08:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://gomix.github.io/programming/go/tuto-01/day-01.html</loc>
+  <lastmod>2019-10-22T23:08:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://gomix.github.io/programming/go/docs/basic_types.html</loc>
+  <lastmod>2019-10-22T23:08:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://gomix.github.io/programming/go/docs/exported_names.html</loc>
+  <lastmod>2019-10-22T23:08:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://gomix.github.io/programming/go/docs/functions.html</loc>
+  <lastmod>2019-10-22T23:08:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://gomix.github.io/programming/go/docs/imports.html</loc>
+  <lastmod>2019-10-22T23:08:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://gomix.github.io/programming/go/docs/packages.html</loc>
+  <lastmod>2019-10-22T23:08:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://gomix.github.io/programming/go/docs/testing/testing.html</loc>
+  <lastmod>2019-10-22T23:08:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://gomix.github.io/programming/go/docs/variables.html</loc>
+  <lastmod>2019-10-22T23:08:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://gomix.github.io/programming/go/docs/errors.html</loc>
+  <lastmod>2019-10-22T23:08:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://gomix.github.io/programming/go/docs/goroutines.html</loc>
+  <lastmod>2019-10-22T23:08:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://gomix.github.io/programming/go/docs/slices.html</loc>
+  <lastmod>2019-10-22T23:08:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://gomix.github.io/programming/go/docs/make.html</loc>
+  <lastmod>2019-10-22T23:08:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://gomix.github.io/programming/go/docs/debugging.html</loc>
+  <lastmod>2019-10-22T23:08:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://gomix.github.io/programming/go/dojo/maps-1.html</loc>
+  <lastmod>2019-10-22T23:08:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://gomix.github.io/programming/go/exercism.html</loc>
+  <lastmod>2019-10-22T23:08:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://gomix.github.io/programming/python/docs/comments.html</loc>
+  <lastmod>2019-10-22T23:08:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://gomix.github.io/programming/python/docs/strings.html</loc>
+  <lastmod>2019-10-22T23:08:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://gomix.github.io/programming/python/docs/dictionaries.html</loc>
+  <lastmod>2019-10-22T23:08:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://gomix.github.io/programming/python/docs/lists.html</loc>
+  <lastmod>2019-10-22T23:08:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://gomix.github.io/programming/python/docs/functions.html</loc>
+  <lastmod>2019-10-22T23:08:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://gomix.github.io/programming/python/docs/regexp.html</loc>
+  <lastmod>2019-10-22T23:08:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://gomix.github.io/programming/python/docs/for_loop.html</loc>
+  <lastmod>2019-10-22T23:08:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://gomix.github.io/programming/ruby/docs/comments.html</loc>
+  <lastmod>2019-10-22T23:08:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://gomix.github.io/programming/ruby/docs/string.html</loc>
+  <lastmod>2019-10-22T23:08:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://gomix.github.io/programming/ruby/docs/hash.html</loc>
+  <lastmod>2019-10-22T23:08:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://gomix.github.io/programming/ruby/docs/regexp.html</loc>
+  <lastmod>2019-10-22T23:08:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://gomix.github.io/programming/ccplus/docs/fedora-c-day-01.html</loc>
+  <lastmod>2019-10-22T23:08:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://gomix.github.io/programming/ccplus/docs/c-types-01.html</loc>
+  <lastmod>2019-10-22T23:08:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://gomix.github.io/programming/ccplus/docs/gdb.html</loc>
+  <lastmod>2019-10-22T23:08:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://gomix.github.io/programming/bash/exercism.html</loc>
+  <lastmod>2019-10-22T23:08:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://gomix.github.io/programming/swengineering/testing.html</loc>
+  <lastmod>2019-10-22T23:08:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://gomix.github.io/programming/swengineering/design.html</loc>
+  <lastmod>2019-10-22T23:08:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://gomix.github.io/programming/build_systems/gnu_make.html</loc>
+  <lastmod>2019-10-22T23:08:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://gomix.github.io/programming/build_systems/rake.html</loc>
+  <lastmod>2019-10-22T23:08:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://gomix.github.io/2019/09/04/self-signed-certificate-ansible-way.html</loc>
+  <lastmod>2019-10-22T23:08:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://gomix.github.io/2019/09/04/arp-no-ping.html</loc>
+  <lastmod>2019-10-22T23:08:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://gomix.github.io/2019/08/29/wget-fails-curl-works.html</loc>
+  <lastmod>2019-10-22T23:08:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://gomix.github.io/2019/07/28/syntax-highlighting.html</loc>
+  <lastmod>2019-10-22T23:08:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://gomix.github.io/posts/page3/</loc>
+  <lastmod>2019-10-22T23:08:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://gomix.github.io/foss_topics/linux/fedora/docs/distro-upgrade.html</loc>
+  <lastmod>2019-10-22T23:08:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://gomix.github.io/foss_topics/linux/kernel/cgroups/index.html</loc>
+  <lastmod>2019-10-22T23:08:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://gomix.github.io/foss_topics/containers/buildah/my-first-container.html</loc>
+  <lastmod>2019-10-22T23:08:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://gomix.github.io/foss_topics/devops/ansible/dojo/kafka_topics.html</loc>
+  <lastmod>2019-10-22T23:08:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://gomix.github.io/programming/go/docs/my_first_package.html</loc>
+  <lastmod>2019-10-22T23:08:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://gomix.github.io/programming/go/docs/testing/day_1.html</loc>
+  <lastmod>2019-10-22T23:08:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://gomix.github.io/programming/go/docs/testing/tdd_day_1.html</loc>
+  <lastmod>2019-10-22T23:08:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://gomix.github.io/programming/go/docs/debugging/delve.html</loc>
+  <lastmod>2019-10-22T23:08:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://gomix.github.io/programming/ccplus/docs/c-types-character-01.html</loc>
+  <lastmod>2019-10-22T23:08:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://gomix.github.io/programming/ccplus/docs/c-types-integer-01.html</loc>
+  <lastmod>2019-10-22T23:08:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://gomix.github.io/programming/ccplus/docs/c-types-float-01.html</loc>
+  <lastmod>2019-10-22T23:08:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://gomix.github.io/2019/06/26/welcome-to-my-site.html</loc>
+  <lastmod>2019-10-22T23:08:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+
+
+</urlset>
