@@ -6,30 +6,30 @@
 
 - name: linkedin 
   profile_url: "https://www.linkedin.com/in/guillermo-g%C3%B3mez-51112882/"
-  rrss_icon: "/assets/images/rrss/linkedin/social_icons/transparent-on-white.png"
+  rrss_icon: "/assets/images/linkedin/social_icons/transparent-on-white.png"
   icon_title: "LinkedIn"
   icon_alt: "LinkedIn"
 
 - name: instagram
   profile_url: "https://www.instagram.com/ggomixs/"
-  rrss_icon: "/assets/images/rrss/instagram/social_icons/glyph-logo_May2016-white.png"
+  rrss_icon: "/assets/images/instagram/social_icons/glyph-logo_May2016-white.png"
   icon_title: "Instagram"
   icon_alt: "Instagram"
 
 - name: facebook
   profile_url: "https://www.facebook.com/guillermo.gomez.savino"
-  rrss_icon: "/assets/images/rrss/facebook/logos/white/f_logo_RGB-White_58.png"
+  rrss_icon: "/assets/images/facebook/logos/white/f_logo_RGB-White_58.png"
   icon_title: "Facebook"
   icon_alt: "Facebook"
 
 - name: youtube 
   profile_url: "https://www.youtube.com/channel/UCnpheMMh1KghqwaCVTygqAw"
-  rrss_icon: "/assets/images/rrss/youtube/social_icons/youtube.png"
+  rrss_icon: "/assets/images/youtube/social_icons/youtube.png"
   icon_title: "YouTube"
   icon_alt: "YouTube"
 
 - name: email
   profile_url: "mailto:guillermo.gomez@gmail.com"
-  rrss_icon: "/assets/images/rrss/email/social_icons/email-round-icon-transparent-on-white.png"
+  rrss_icon: "/assets/images/email/social_icons/email-round-icon-transparent-on-white.png"
   icon_title: "eMail"
   icon_alt: "MailMe"
