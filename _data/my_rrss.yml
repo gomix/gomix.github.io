@@ -1,6 +1,6 @@
 - name: twitter
   profile_url: "https://twitter.com/ggomezs"
-  rrss_icon: "/assets/images/rrss/twitter/social_icons/Twitter_SocialIcon_Circle/Twitter_Social_Icon_Circle_White.svg"
+  rrss_icon: "/assets/images/twitter/social_icons/Twitter_SocialIcon_Circle/Twitter_Social_Icon_Circle_White.svg"
   icon_title: "Twitter"
   icon_alt: "Twitter"
 
