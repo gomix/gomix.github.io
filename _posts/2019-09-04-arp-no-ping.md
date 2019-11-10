@@ -1,12 +1,17 @@
 ---
 layout: post
-title:  "arp but no ping"
+title:  arp but no ping
 author: gomix
 tags: [linux, debug, networking]
 lang: en
 comments: true
 ---
-# arp but no ping
+
+<div>
+ <a href="{{ page.url }}">
+  <h1>{{ page.title }}</h1>
+ </a>
+</div>
 
 This post is yet another case of _what's going on here_ type of situation.
 

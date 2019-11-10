@@ -1,21 +1,31 @@
 ---
 layout: post
-title:  "tmux plugins (es)"
+title:  Descubriendo los plugins de tmux
 author: gomix
 tags: [foss]
 lang: es
 comments: true
 ---
-<img src="/assets/images/tmux/tmux-logo-dark-medium.png" 
+
+<div>
+<a href="{{ page.url }}">
+  <img src="/assets/images/tmux/tmux-logo-dark-medium.png" 
      alt="tmux Terminal Multiplexer logo" 
      class="img-fluid float-right m-2"
     width="260px">
+  </a>
+</div>
 
-# Descubriendo los plugins de tmux
+<div>
+ <a href="{{ page.url }}">
+  <h1>{{ page.title }}</h1>
+ </a>
+</div>
 
 Como siempre en mi carrera, ocurre que se presenta la necesidad de resolver un problema específico, en esta ocasión estaba por actualizar mi Fedora 29 a Fedora 30, ya estoy algo retrasado! Estaba por reiniciar y proceder y me acordé de mis sesiones tmux activas y pensaba de si existía alguna manera de recuperarlas. Entonces se ocurrió la idea de que debería existir algún tipo de soporte para "restaurar mi sesión" en tmux y como suele ocurrir muy frecuentemente en el mundo del software libre, encontré solución buscando en la red, descubrí los plugins tmux:
 
 <!--more-->
+
 * [tmux plugins at github](https://github.com/tmux-plugins)
 
 Si usted como yo, es nuevo con los plutins de tmux,  comience por revisar la versión de tmux instalada. En mi caso en F29 obtengo:

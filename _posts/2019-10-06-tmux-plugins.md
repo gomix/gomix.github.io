@@ -1,17 +1,25 @@
 ---
 layout: post
-title:  "tmux plugins (en)"
+title: Just discovered tmux plugins 
 author: gomix
 tags: [foss]
 lang: en
 comments: true
 ---
-<img src="/assets/images/tmux/tmux-logo-dark-medium.png" 
+<div>
+<a href="{{ page.url }}">
+  <img src="/assets/images/tmux/tmux-logo-dark-medium.png" 
      alt="tmux Terminal Multiplexer logo" 
      class="img-fluid float-right m-2"
     width="260px">
+  </a>
+</div>
 
-# Just discovered tmux plugins
+<div>
+ <a href="{{ page.url }}">
+  <h1>{{ page.title }}</h1>
+ </a>
+</div>
 
 As always in my carrer i've been pushed by the needs to solve and specific problem, this time i was just about to upgrade my Fedora 29 to Fedora 30, i'm already late! Then i was to reboot and proceed and then accounted my tmux list-sessions to try to recover them later on. Then it came to me the idea that there should be a sort of "restore my session" support for tmux, and as almost always happens with FOSS,  we have a solution and searching the net the way to go.
 

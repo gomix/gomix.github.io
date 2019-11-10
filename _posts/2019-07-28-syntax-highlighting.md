@@ -1,11 +1,16 @@
 ---
 layout: post
-title:  "Syntax Highlight"
+title: Testing syntax highlighting
 author: gomix
 lang: en
 comments: true
 ---
-# Testing syntax highlighting
+
+<div>
+ <a href="{{ page.url }}">
+  <h1>{{ page.title }}</h1>
+ </a>
+</div>
 
 ## Ruby
 {% highlight ruby %}

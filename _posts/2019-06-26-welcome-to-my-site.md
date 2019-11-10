@@ -1,11 +1,16 @@
 ---
 layout: post
-title:  "Welcome!"
+title:  "My first post"
 author: gomix
 lang: en
 comments: true
 ---
-## My first post, WIP...
+
+<div>
+ <a href="{{ page.url }}">
+  <h1>{{ page.title }}</h1>
+ </a>
+</div>
 
 Well this one is to give my friends, i mean you, a friendly FOSS Welcome :-)
 

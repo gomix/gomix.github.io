@@ -1,12 +1,17 @@
 ---
 layout: post
-title:  "wget fails, curl works"
+title:  wget fails, curl works
 author: gomix
 tags: [linux, debug, http]
 lang: en
 comments: true
 ---
-# Wget fails, Curl works 
+
+<div>
+ <a href="{{ page.url }}">
+  <h1>{{ page.title }}</h1>
+ </a>
+</div>
 
 This post is about a simple case of _what's going on here_ type of situation.
 
