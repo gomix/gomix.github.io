@@ -4,6 +4,7 @@ title:  "arp but no ping"
 author: gomix
 tags: [linux, debug, networking]
 lang: en
+comments: true
 ---
 # arp but no ping
 

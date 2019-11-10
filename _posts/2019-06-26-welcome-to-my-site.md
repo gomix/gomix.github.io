@@ -3,6 +3,7 @@ layout: post
 title:  "Welcome!"
 author: gomix
 lang: en
+comments: true
 ---
 ## My first post, WIP...
 

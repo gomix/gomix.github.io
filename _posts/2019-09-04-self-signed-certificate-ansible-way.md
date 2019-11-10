@@ -4,6 +4,7 @@ title:  "Self Signed SSL Certificate: Ansible Way"
 author: gomix
 tags: [linux, security, automation]
 lang: en
+comments: true
 ---
 {% include ansible-logo-float-right.html %}
 

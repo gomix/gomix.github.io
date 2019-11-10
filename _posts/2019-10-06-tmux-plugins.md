@@ -4,6 +4,7 @@ title:  "tmux plugins (en)"
 author: gomix
 tags: [foss]
 lang: en
+comments: true
 ---
 <img src="/assets/images/tmux/tmux-logo-dark-medium.png" 
      alt="tmux Terminal Multiplexer logo" 

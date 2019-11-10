@@ -2,6 +2,7 @@
 layout: programming
 title: Go Docs Basic Types
 lang: en
+comments: true
 ---
 {% include go-logo-float-right.html %}
 

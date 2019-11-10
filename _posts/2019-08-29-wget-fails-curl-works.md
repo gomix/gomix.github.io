@@ -4,6 +4,7 @@ title:  "wget fails, curl works"
 author: gomix
 tags: [linux, debug, http]
 lang: en
+comments: true
 ---
 # Wget fails, Curl works 
 

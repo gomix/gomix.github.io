@@ -4,6 +4,7 @@ title:  "Posts on Home"
 author: gomix
 tags: [news]
 lang: en
+comments: true
 ---
 {% include gomix-logo-float-right.html %}
 # Posts on Home
