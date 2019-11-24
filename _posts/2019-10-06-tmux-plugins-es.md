@@ -8,7 +8,7 @@ comments: true
 ---
 
 <div>
-<a href="{{ page.url }}">
+  <a href="{{ page.url }}">
   <img src="/assets/images/tmux/tmux-logo-dark-medium.png" 
      alt="tmux Terminal Multiplexer logo" 
      class="img-fluid float-right m-2"
