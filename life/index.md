@@ -156,6 +156,7 @@ Hey!!!! This the why-page, the why i do what i do, because all of us deserve to 
 
   <!-- Fourth Column -->
   <div class="col p-0">
+    <img src="/assets/images/andrea/andrea-1.png" class="img-thumbnail" alt="Deep Look">
   </div>
 </div>
 
