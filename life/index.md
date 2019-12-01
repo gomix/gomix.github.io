@@ -3,42 +3,34 @@ layout: default
 title: Life of a Hacker
 lang: en
 ---
+<div class="w-25 fluid float-right">
+{% include girl-carousel-1.html %}
+</div>
+
 Hey!!!! This the why-page, the why i do what i do, because all of us deserve to enjoy life, music, videos, trips, memories, culture, photography, poetry, friendship, sports and everything else that makes living worthwhile.
 
 <h1 class="display-1">Videos and PlayLists</h1>
-
-<!-- First Row Titles -->
-<div class="row ml-0 mr-0">
-  <div class="col-sm-12 col-md-6 col-lg-3 p-0">
-    <h4 class="display-3 m-0">Salsa</h4>
-  </div>
-  <div class="col-sm-12 col-md-6 col-lg-3 p-0">
-    <h4 class="display-3 m-0">Good Mood</h4>
-  </div>
-  <div class="col-sm-12 col-md-6 col-lg-3 p-0">
-    <h4 class="display-3 m-0">Oldies</h4>
-  </div>
-  <div class="col-sm-12 col-md-6 col-lg-3 p-0">
-    <h4 class="display-3 m-0">PL#2</h4>
-  </div>
-</div>
 
 <!-- First Row Videos -->
 <div class="row ml-0 mr-0">
   <!-- First Column -->
   <div class="col-sm-12 col-md-6 col-lg-3 p-0">
+    <h4 class="display-3 m-0">Salsa</h4>
     <iframe width="100%" src="https://www.youtube.com/embed/videoseries?list=PLAx5WRK7eNtkkV1draa-cICAeILScpJX9" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
   <!-- Second Column -->
   <div class="col-sm-12 col-md-6 col-lg-3 p-0">
+    <h4 class="display-3 m-0">Good Mood</h4>
     <iframe width="100%" src="https://www.youtube.com/embed/videoseries?list=PLAx5WRK7eNtlwn96im4HOpAm5HZaL9deo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
   <!-- Third Column -->
   <div class="col-sm-12 col-md-6 col-lg-3 p-0">
+    <h4 class="display-3 m-0">Oldies</h4>
     <iframe width="100%" src="https://www.youtube.com/embed/videoseries?list=PLAx5WRK7eNtnmlqrUY2ADG3KWQa5ciwtm" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
   <!-- Fourth Column -->
   <div class="col-sm-12 col-md-6 col-lg-3 p-0">
+    <h4 class="display-3 m-0">PL#2</h4>
     <iframe width="100%" src="https://www.youtube.com/embed/videoseries?list=PLAx5WRK7eNtlWSz1k2wXzXp3lGapo1BUc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
 </div>
@@ -99,23 +91,18 @@ Hey!!!! This the why-page, the why i do what i do, because all of us deserve to 
 
 <!-- Fourth Row Videos -->
 <div class="row m-0 p-0 pb-4">
-  <div class="col-sm-12 col-md-6 col-lg-4 p-0">
+  <div class="col-sm-12 col-md-6 col-lg-3 p-0">
     <h4 class="display-3 m-0">90s</h4>
     <iframe class="h-100 w-100" src="https://www.youtube.com/embed/videoseries?list=PLAx5WRK7eNtlAuZvDZDK-IeJO6-_3Jayx" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
 
-  <div class="col-sm-12 col-md-6 col-lg-4 p-0">
-    <h4 class="display-3 m-0">Today's model</h4>
-    {% include girl-carousel-1.html %}
-  </div>
-
-  <div class="col-sm-12 col-md-6 col-lg-4 p-0">
+  <div class="col-sm-12 col-md-6 col-lg-3 p-0">
     <h4 class="display-3 m-0"><3</h4>
     <iframe class="h-100 w-100" src="https://www.youtube.com/embed/videoseries?list=PLAx5WRK7eNtllr52kI7jleUoYdY5JseW6" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
 
-  <div class="col-sm-12 col-md-6 col-lg-4 p-0">
-    <h4 class="display-3 mt-3 mb-0">Chicago/Peter Cetera <3</h4>
+  <div class="col-sm-12 col-md-6 col-lg-3 p-0">
+    <h4 class="display-3 mb-0">Chicago/Peter Cetera <3</h4>
     <iframe class="h-100 w-100" src="https://www.youtube.com/embed/videoseries?list=PLAx5WRK7eNtlhCUHbWmbxdL5_AtlH-9NL" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
 </div>
