@@ -128,8 +128,10 @@ Hey!!!! This the why-page, the why i do what i do, because all of us deserve to 
     <h4 class="display-3 m-0">90s</h4>
   </div>
   <div class="col p-0">
+    <h4 class="display-3 m-0"><3</h4>
   </div>
   <div class="col p-0">
+    <h4 class="display-3 m-0">Chicago/Peter Cetera <3</h4>
   </div>
   <div class="col p-0">
   </div>
@@ -144,10 +146,12 @@ Hey!!!! This the why-page, the why i do what i do, because all of us deserve to 
 
   <!-- Second Column -->
   <div class="col p-0">
+    <iframe width="100%" src="https://www.youtube.com/embed/videoseries?list=PLAx5WRK7eNtllr52kI7jleUoYdY5JseW6" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
 
   <!-- Third Column -->
   <div class="col p-0">
+    <iframe width="100%" src="https://www.youtube.com/embed/videoseries?list=PLAx5WRK7eNtlhCUHbWmbxdL5_AtlH-9NL" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
 
   <!-- Fourth Column -->
