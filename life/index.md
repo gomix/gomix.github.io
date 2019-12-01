@@ -43,59 +43,30 @@ Hey!!!! This the why-page, the why i do what i do, because all of us deserve to 
   </div>
 </div>
 
-<!-- Second Row Titles -->
-<div class="row ml-0 mr-0">
-  <div class="col-sm-12 col-md-6 col-lg-3 p-0">
-    <h4 class="display-3 m-0">PL#1</h4>
-  </div>
-  <div class="col-sm-12 col-md-6 col-lg-3 p-0">
-    <h4 class="display-3 m-0">AC/DC</h4>
-  </div>
-  <div class="col-sm-12 col-md-6 col-lg-3 p-0">
-    <h4 class="display-3 m-0">Rock #1</h4>
-  </div>
-  <div class="col-sm-12 col-md-6 col-lg-3 p-0">
-    <h4 class="display-3 m-0">Reggae</h4>
-  </div>
-</div
->
 <!-- Second Row Videos -->
 <div class="row ml-0 mr-0">
   <!-- First Column -->
   <div class="col-sm-12 col-md-6 col-lg-3 p-0">
+    <h4 class="display-3 m-0">PL#1</h4>
     <iframe width="100%" src="https://www.youtube.com/embed/videoseries?list=PLAx5WRK7eNtlxXgIF6x3ocfntUO6X_R22" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
 
   <!-- Second Column -->
   <div class="col-sm-12 col-md-6 col-lg-3 p-0">
+    <h4 class="display-3 m-0">AC/DC</h4>
     <iframe width="100%" src="https://www.youtube.com/embed/videoseries?list=PLAx5WRK7eNtlfA6bZtiL9g57WRKi1oF9F" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
 
   <!-- Third Column -->
   <div class="col-sm-12 col-md-6 col-lg-3 p-0">
+    <h4 class="display-3 m-0">Rock #1</h4>
     <iframe width="100%" src="https://www.youtube.com/embed/videoseries?list=PLAx5WRK7eNtk26r3U6zGLFEG5cwr31NxY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
 
   <!-- Fourth Column -->
   <div class="col-sm-12 col-md-6 col-lg-3 p-0">
+    <h4 class="display-3 m-0">Reggae</h4>
     <iframe width="100%" src="https://www.youtube.com/embed/videoseries?list=PLAx5WRK7eNtnvT9-Jp5SfA6-IBe0B26os" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  </div>
-
-</div>
-
-<!-- Third Row Titles -->
-<div class="row ml-0 mr-0">
-  <div class="col-sm-12 col-md-6 col-lg-3 p-0">
-    <h4 class="display-3 m-0">Classical</h4>
-  </div>
-  <div class="col-sm-12 col-md-6 col-lg-3 p-0">
-    <h4 class="display-3 m-0">John Williams</h4>
-  </div>
-  <div class="col-sm-12 col-md-6 col-lg-3 p-0">
-    <h4 class="display-3 m-0">70s</h4>
-  </div>
-  <div class="col-sm-12 col-md-6 col-lg-3 p-0">
-    <h4 class="display-3 m-0">80s</h4>
   </div>
 </div>
 
@@ -103,61 +74,48 @@ Hey!!!! This the why-page, the why i do what i do, because all of us deserve to 
 <div class="row ml-0 mr-0">
   <!-- First Column -->
   <div class="col-sm-12 col-md-6 col-lg-3 p-0">
+    <h4 class="display-3 m-0">Classical</h4>
     <iframe width="100%" src="https://www.youtube.com/embed/videoseries?list=PLAx5WRK7eNtkwghL_UA4iSTsGWk-R7_H6" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
 
   <!-- Second Column -->
   <div class="col-sm-12 col-md-6 col-lg-3 p-0">
+    <h4 class="display-3 m-0">John Williams</h4>
     <iframe width="100%" src="https://www.youtube.com/embed/videoseries?list=PLAx5WRK7eNtnZOttCz2yFB9Rbvi_lZ3BH" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
 
   <!-- Third Column -->
   <div class="col-sm-12 col-md-6 col-lg-3 p-0">
+    <h4 class="display-3 m-0">70s</h4>
     <iframe width="100%" src="https://www.youtube.com/embed/videoseries?list=PLAx5WRK7eNtkcwWyVv5r0342Wf8Yuemtt" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
 
   <!-- Fourth Column -->
   <div class="col-sm-12 col-md-6 col-lg-3 p-0">
+    <h4 class="display-3 m-0">80s</h4>
     <iframe width="100%" src="https://www.youtube.com/embed/videoseries?list=PLAx5WRK7eNtn7YaHiZLTYR55TF6msEYli" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  </div>
-</div>
-
-<!-- Fourth Row Titles -->
-<div class="row ml-0 mr-0">
-  <div class="col-sm-12 col-md-6 col-lg-3 p-0">
-    <h4 class="display-3 m-0">90s</h4>
-  </div>
-  <div class="col-sm-12 col-md-6 col-lg-3 p-0">
-    <h4 class="display-3 m-0"><3</h4>
-  </div>
-  <div class="col-sm-12 col-md-6 col-lg-3 p-0">
-    <h4 class="display-3 m-0">Chicago/Peter Cetera <3</h4>
-  </div>
-  <div class="col-sm-12 col-md-6 col-lg-3 p-0">
   </div>
 </div>
 
 <!-- Fourth Row Videos -->
 <div class="row ml-0 mr-0">
-  <!-- First Column -->
-  <div class="col-sm-12 col-md-6 col-lg-3 p-0">
-    <iframe width="100%" src="https://www.youtube.com/embed/videoseries?list=PLAx5WRK7eNtlAuZvDZDK-IeJO6-_3Jayx" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <div class="col-sm-12 col-md-6 col-lg-4 p-0">
+    <h4 class="display-3 m-0">90s</h4>
+    <iframe class="h-100 w-100" src="https://www.youtube.com/embed/videoseries?list=PLAx5WRK7eNtlAuZvDZDK-IeJO6-_3Jayx" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
 
-  <!-- Second Column -->
-  <div class="col-sm-12 col-md-6 col-lg-3 p-0">
-    <iframe width="100%" src="https://www.youtube.com/embed/videoseries?list=PLAx5WRK7eNtllr52kI7jleUoYdY5JseW6" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  </div>
-
-  <!-- Third Column -->
-  <div class="col-sm-12 col-md-6 col-lg-3 p-0">
-    <iframe width="100%" src="https://www.youtube.com/embed/videoseries?list=PLAx5WRK7eNtlhCUHbWmbxdL5_AtlH-9NL" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  </div>
-
-  <!-- Fourth Column -->
-  <div class="col-sm-12 col-md-6 col-lg-3 p-0">
+  <div class="col-sm-12 col-md-6 col-lg-4 p-0">
+    <h4 class="display-3 m-0">Today's model</h4>
     <img src="/assets/images/andrea/andrea-1.png" class="img-thumbnail img-fluid" alt="Deep Look">
   </div>
+
+  <div class="col-sm-12 col-md-6 col-lg-4 p-0">
+    <h4 class="display-3 m-0"><3</h4>
+    <iframe class="h-100 w-100" src="https://www.youtube.com/embed/videoseries?list=PLAx5WRK7eNtllr52kI7jleUoYdY5JseW6" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
+
+  <div class="col-sm-12 col-md-6 col-lg-4 p-0">
+    <h4 class="display-3 m-0">Chicago/Peter Cetera <3</h4>
+    <iframe class="h-100 w-100" src="https://www.youtube.com/embed/videoseries?list=PLAx5WRK7eNtlhCUHbWmbxdL5_AtlH-9NL" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
 </div>
-
-
