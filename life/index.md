@@ -106,7 +106,7 @@ Hey!!!! This the why-page, the why i do what i do, because all of us deserve to 
 
   <div class="col-sm-12 col-md-6 col-lg-4 p-0">
     <h4 class="display-3 m-0">Today's model</h4>
-    <img src="/assets/images/andrea/andrea-1.png" class="img-thumbnail img-fluid" alt="Deep Look">
+    {% include girl-carousel-1.html %}
   </div>
 
   <div class="col-sm-12 col-md-6 col-lg-4 p-0">
