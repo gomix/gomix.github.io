@@ -3,13 +3,22 @@ layout: default
 title: Life of a Hacker
 lang: en
 ---
-<div class="w-25 fluid float-right">
-{% include girl-carousel-1.html %}
+<div class="row ml-0 mr-0 mb-3">
+  <div class="col-sm-12 col-md-9 p-0">
+    <h1 class="display-1">About Life</h1>
+  <p>
+  Hey!!!! This the why-page, the why i do what i do, because all of us deserve to enjoy life, music, videos, trips, memories, culture, photography, poetry, friendship, sports and everything else that makes living worthwhile.</p>
+  </div>
+  
+  <div class="col-sm-12 col-md-3 p-0">
+  {% include girl-carousel-1.html %}
+  </div>
 </div>
 
-Hey!!!! This the why-page, the why i do what i do, because all of us deserve to enjoy life, music, videos, trips, memories, culture, photography, poetry, friendship, sports and everything else that makes living worthwhile.
 
-<h1 class="display-1">Videos and PlayLists</h1>
+<div class="row ml-0 mr-0">
+    <h2 class="display-1">Videos and PlayLists</h2>
+</div>
 
 <!-- First Row Videos -->
 <div class="row ml-0 mr-0">
