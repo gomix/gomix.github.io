@@ -4,14 +4,15 @@ title: Life of a Hacker
 lang: en
 ---
 <div class="row ml-0 mr-0 mb-3">
-  <div class="col-sm-12 col-md-9 p-0">
+  <div class="col-sm-12 col-md-8 p-0">
     <h1 class="display-1">About Life</h1>
-  <p>
-  Hey!!!! This the why-page, the why i do what i do, because all of us deserve to enjoy life, music, videos, trips, memories, culture, photography, poetry, friendship, sports and everything else that makes living worthwhile.</p>
+    <p>Hey!!!! This the why-page, the why i do what i do, because all of us 
+       deserve to enjoy life, music, videos, trips, memories, culture, photography, 
+       poetry, friendship, sports and everything else that makes living worthwhile.</p>
   </div>
   
-  <div class="col-sm-12 col-md-3 p-0">
-  {% include girl-carousel-1.html %}
+  <div class="col-sm-12 col-md-4 p-0">
+    {% include girl-carousel-1.html %}
   </div>
 </div>
 
