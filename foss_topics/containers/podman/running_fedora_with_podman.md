@@ -39,7 +39,7 @@ Since our container has stopped, let's start it again.
 {% highlight shell %}
 # podman start fedora
 fedora
- podman ps -a
+# podman ps -a
 CONTAINER ID  IMAGE                            COMMAND    CREATED         STATUS             PORTS  NAMES
 45a22b919c21  docker.io/library/fedora:latest  /bin/bash  13 minutes ago  Up 31 seconds ago         fedora
 {% endhighlight %}
