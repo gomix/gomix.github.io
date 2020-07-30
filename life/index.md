@@ -11,9 +11,6 @@ lang: en
        poetry, friendship, sports and everything else that makes living worthwhile.</p>
   </div>
   
-  <div class="col-sm-12 col-md-4 p-0">
-  <!--  {% include girl-carousel-1.html %} -->
-  </div>
 </div>
 
 
