@@ -34,7 +34,7 @@ Gómez + Linux = Gomix.
 <ul>
   <li>libvirt/kvm</li>
   <li>oVirt</li>
-  <li>VMware/vCloud Director</li>
+  <li>VMware/vSphere/vCloud Director</li>
   <li>Docker/buildah/podman</li>
   <li>Kubernetes</li>
   <li>OpenShift/OKD</li>
@@ -98,6 +98,7 @@ Gómez + Linux = Gomix.
 
   <h3>Middleware</h3>
   <ul><li>Apache Kafka</li></ul>
+  <ul><li>Google Apigee</li></ul>
  </div> 
 
  <!-- Second Column -->
