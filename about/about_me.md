@@ -97,8 +97,10 @@ Gómez + Linux = Gomix.
   </ul>
 
   <h3>Middleware</h3>
-  <ul><li>Apache Kafka</li></ul>
-  <ul><li>Google Apigee</li></ul>
+  <ul>
+    <li>Apache Kafka</li>
+    <li>Google Apigee</li>
+  </ul>
  </div> 
 
  <!-- Second Column -->
@@ -108,6 +110,7 @@ Gómez + Linux = Gomix.
    <li>Ansible/Ansible Tower/AWX</li>
    <li>Terraform</li>
    <li>Serverspec</li>
+   <li>Testinfra</li>
    <li>Chef InSpec</li>
    <li>Selenium</li>
    <li>RSpec</li>
