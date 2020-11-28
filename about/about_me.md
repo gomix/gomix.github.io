@@ -22,8 +22,10 @@ Gómez + Linux = Gomix.
 <h3>Operating Systems</h3>
 <ul>
 <li>Red Hat Enterprise Linux 3+</li>
+<li>Red Hat CoreOS</li>
 <li>CentOS 3+</li>
 <li>Fedora 1+</li>
+<li>Fedora CoreOS</li>
 <li>Debian</li>
 </ul>
 </div>
