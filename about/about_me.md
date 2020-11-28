@@ -37,7 +37,7 @@ Gómez + Linux = Gomix.
   <li>libvirt/kvm</li>
   <li>oVirt</li>
   <li>VMware/vSphere/vCloud Director</li>
-  <li>Docker/buildah/podman</li>
+  <li>CRI-O/Docker/buildah/podman</li>
   <li>Kubernetes</li>
   <li>OpenShift/OKD</li>
 </ul>
