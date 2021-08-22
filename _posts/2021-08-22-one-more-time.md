@@ -8,7 +8,7 @@ comments: true
 ---
 <div>
 <a href="{{ page.url }}">
-  <img src="/assets/images/redhat/redhat-logo-4.png" 
+  <img src="/assets/images/redhat/redhat-logo-4-transparent.png" 
      alt="tmux Terminal Multiplexer logo" 
      class="img-fluid float-right m-2"
     width="260px">
