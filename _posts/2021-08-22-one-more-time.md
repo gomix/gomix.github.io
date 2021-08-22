@@ -10,7 +10,7 @@ comments: true
 <a href="{{ page.url }}">
   <img src="/assets/images/redhat/redhat-logo-4-transparent.png" 
      alt="Red Hat cz" 
-     class="img-fluid float-right m-1"
+     class="img-fluid float-right ml-1"
     width="260px">
   </a>
 </div>
