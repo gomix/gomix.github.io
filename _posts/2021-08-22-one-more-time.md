@@ -9,8 +9,8 @@ comments: true
 <div>
 <a href="{{ page.url }}">
   <img src="/assets/images/redhat/redhat-logo-4-transparent.png" 
-     alt="tmux Terminal Multiplexer logo" 
-     class="img-fluid float-right m-2"
+     alt="Red Hat cz" 
+     class="img-fluid float-right m-1"
     width="260px">
   </a>
 </div>
@@ -27,7 +27,7 @@ Mucho ha ocurrido desde mi última publicación, Covid-19, Red Hat, República C
 <div>
   <img src="/assets/images/gomix/gomix-1.jpg" 
      alt="Gomix" 
-     class="img-fluid float-left m-2"
+     class="img-fluid float-left m-3"
      width="260px">
 </div>
 
