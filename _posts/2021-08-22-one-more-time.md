@@ -27,7 +27,7 @@ Mucho ha ocurrido desde mi última publicación, Covid-19, Red Hat, República C
 <div>
   <img src="/assets/images/gomix/gomix-1.jpg" 
      alt="Gomix" 
-     class="img-fluid float-left m-3"
+     class="img-fluid float-left mr-3"
      width="260px">
 </div>
 
