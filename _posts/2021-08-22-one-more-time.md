@@ -28,7 +28,7 @@ Mucho ha ocurrido desde mi última publicación, Covid-19, Red Hat, República C
 Si, migré a la República Checa, vivo en Brno, tengo un excelente trabajo en Red Hat y un gran entorno rodeado de los mejores profesionales del mundo en el área, ya sea que sean locales o en India o China, Estados Unidos o España, Brasil.
 
 <div>
-  <img src="/assets/images/brno/brno-1.png" 
+  <img src="/assets/images/brno/brno-1.jpg" 
      alt="Brno de noche" 
      class="img-fluid float-right m-2"
      width="260px">
