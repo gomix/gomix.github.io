@@ -18,6 +18,7 @@ Some notes about GNU Linux.
     <li><a href="fedora/index.html">Fedora</a></li>
     <li><a href="bash/index.html">Bash</a></li>
     <li><a href="kernel/index.html">Kernel</a></li>
+    <li><a href="coreos/index.html">CoreOS</a></li>
   </ul>
 </div>
 
