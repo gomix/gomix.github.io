@@ -6,7 +6,7 @@ lang: en
 <section class="container-fluid" id="main_content">
 
   <div class="row">
-    <div class="col-lg-8">
+    <div class="col-lg-12">
       <h1 id="welcome">Welcome to my site</h1>
 
       <p>Thanks for joining.</p>
@@ -14,39 +14,29 @@ lang: en
         {% include recent_posts.html %}
 
     </div>
-
+    <!--
     <div class="col-lg-4">
 	{% comment %} 
         {% include carousel.html %}
 	{% endcomment %} 
     </div>
-
-  </div>
-
-  <div class="row">
-    <div class="col-lg-8">
-        {% include recent_posts_offset_2.html %}
-    </div>
-
-    <div class="col-lg-4">
-	{% comment %} 
-        {% include carousel-2.html %}
-	{% endcomment %} 
-    </div>
+    -->
 
   </div>
 
   <div class="row">
     <div class="col-lg-12">
-      <hr>
-
-      <h2 id="about-myself">About Myself</h2>
-
-      <p>My name is Guillermo, aka Gomix, merge from Linux name and my own lastname, Gómez (taking off the spanish accent to avoid DNS limitations).</p>
-
-      <p>Gómez + Linux = Gomix</p>
-
+        {% include recent_posts_offset_2.html %}
     </div>
+
+    <!--
+    <div class="col-lg-4">
+	{% comment %} 
+        {% include carousel-2.html %}
+	{% endcomment %} 
+    </div>
+    -->
+
   </div>
 
 </section>
