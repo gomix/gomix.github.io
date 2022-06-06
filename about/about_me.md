@@ -15,6 +15,13 @@ Gómez + Linux = Gomix.
 
 <hr />
 
+### Red Hat Inc.(Brno) Senior System Administrator (2021 -)
+
+Assigned to a position to deploy and maintain OpenShift clusters (3.11 and 4.x) under production environment.
+OpenStack and Baremetal clusters including different architectures like: x86_64, aarch64, p8 and s390.
+
+<hr />
+
 <!-- First Rowd -->
 <div class="row">
 <!-- First Column -->
@@ -148,7 +155,7 @@ Gómez + Linux = Gomix.
  <!-- First Column -->
  <div class="col"> 
   <ul>
-   <li>Electronics Engineering - Universidad Simón Bolívar</li>
+   <li>Masters Degree Electronics Engineering - Universidad Simón Bolívar Caracas/Venezuela</li>
   </ul>
  </div> 
  <!-- Second Column -->

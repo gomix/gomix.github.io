@@ -16,4 +16,4 @@ plugins:
 #  - jekyll-multiple-languages-plugin
 #  - 'jekyll-feed'
 disqus:
-  shortname: gomix
+  shortname: Gomix
