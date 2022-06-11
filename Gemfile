@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 gem 'github-pages', group: :jekyll_plugins
+gem "jekyll", "~> 3.9"
 #gem 'jekyll-theme-hacker'
-#gem 'jekyll', "~> 3.5"
 gem 'webrick'
 group :jekyll_plugins do
   gem 'jekyll-paginate'
@@ -14,3 +14,4 @@ group :jekyll_plugins do
   #gem 'jekyll-multiple-languages-plugin'
   #
 end
+
