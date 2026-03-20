@@ -160,7 +160,8 @@ Assigned to the CEMEA region, with hands-on experience supporting Spanish, Bosni
  <!-- Second Column -->
  <div class="col"> 
   <ul>
-   <li>RHEL4 RHCE</li>
+   <li>Red Hat Certified Engineer (RHCE)</li>
+   <li>Red Hat Certified System Administrator (RHCSA)</li>
   </ul>
 
  </div> 
