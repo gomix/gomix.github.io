@@ -15,10 +15,9 @@ Gómez + Linux = Gomix.
 
 <hr />
 
-### Red Hat Inc.(Brno) Senior System Administrator (2021 -)
+### Red Hat Inc.(Brno) Technical Account Manager OpenShift (2023 -)
 
-Assigned to a position to deploy and maintain OpenShift clusters (3.11 and 4.x) under production environment.
-OpenStack and Baremetal clusters including different architectures like: x86_64, aarch64, p8 and s390.
+Assigned to the CEMEA region, with hands-on experience supporting Spanish, Bosnian, Ghanaian, Czech, and Romanian customers—primarily banks operating medium to large OpenShift 4 environments.
 
 <hr />
 
