@@ -23,7 +23,7 @@ lang: en
   <!-- First Column -->
   <div class="col-sm-12 col-md-6 col-lg-3 p-0">
     <h4 class="display-3 m-0">Salsa</h4>
-    <iframe width="100%" src="https://music.youtube.com/playlist?list=PLAx5WRK7eNtn_SG7ZyjMSPyOvun8i5mF0&si=fZJt8SO5pfSkT2lQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="100%" src="https://www.youtube.com/embed/videoseries?list=PLAx5WRK7eNtn_SG7ZyjMSPyOvun8i5mF0&si=fZJt8SO5pfSkT2lQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
   <!-- Second Column -->
   <div class="col-sm-12 col-md-6 col-lg-3 p-0">
