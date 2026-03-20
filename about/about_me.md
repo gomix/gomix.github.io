@@ -167,6 +167,7 @@ Assigned to the CEMEA region, with hands-on experience supporting Spanish, Bosni
  <!-- Third Column -->
  <div class="col"> 
   <ul>
+   <li><a href="https://www.credly.com/users/guillermo-gomez.b4f7cbeb">badges at Credly</a></li>
    <li><a href="https://www.freecodecamp.org/gomix">freecodecamp portfolio</a></li>
    <li><a href="https://www.udemy.com/user/guillermo-gomez-52/">udemy public portfolio</a></li>
   </ul>
