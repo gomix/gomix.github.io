@@ -1,6 +1,11 @@
 source 'https://rubygems.org'
 gem 'github-pages', group: :jekyll_plugins
 gem "webrick"
+# Ruby 3.4+/4.0 no longer ship these in the default gems
+gem "csv"
+gem "base64"
+gem "logger"
+gem "bigdecimal"
 #gem 'jekyll-theme-hacker'
 group :jekyll_plugins do
   gem 'jekyll-paginate'

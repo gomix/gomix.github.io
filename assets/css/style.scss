@@ -2,3 +2,36 @@
 ---
 
 @import 'jekyll-theme-hacker';
+
+/* Header branding: avatar + title side by side (override hacker negative margin) */
+header .header-branding .d-flex {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+header .header-avatar {
+  display: block;
+  height: 60px;
+  width: 60px;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+
+header h1.site-title {
+  margin: 0 !important;
+  line-height: 1.15 !important;
+  white-space: nowrap !important;
+  font-size: 1.4rem !important;
+  float: none !important;
+}
+
+header .site-tagline {
+  margin: 0.15rem 0 0 !important;
+  line-height: 1.2 !important;
+  float: none !important;
+}
+
+header .header-branding a {
+  text-decoration: none;
+}

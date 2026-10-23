@@ -51,3 +51,11 @@ $on-laptop:        800px;
         "layout",
         "syntax-highlighting"
 ;
+
+header h1.site-title {
+  margin: 0 !important;
+  line-height: 1.15 !important;
+  white-space: nowrap !important;
+  font-size: 1.4rem !important;
+  float: none !important;
+}
